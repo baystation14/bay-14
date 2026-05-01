@@ -23,7 +23,7 @@ SPDX-FileCopyrightText: 2026 Iced-Coded <volkogon212@gmail.com>
 SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
-<p align="center"> <img alt="Space Station 14" width="880" height="300" src="https://github.com/Goob-Station/Goob-Station/blob/master/Resources/Textures/Logo/logo.png" /></p>
+<p align="center"> <img alt="Space Station 14" width="150" height="150" src="https://avatars.githubusercontent.com/u/280936017?s=200&v=4" /></p>
 
 Bay14 is a fork of Goob Station, trying to port over Baystation12 to SS14. To prevent people from forking RobustToolbox, a content pack is loaded by the client and server, which, contains everything needed to play the game on one specific server.
 
