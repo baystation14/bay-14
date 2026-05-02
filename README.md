@@ -29,6 +29,8 @@ Bay14 is a fork of Goob Station, trying to port over Baystation12 to SS14. To pr
 
 If you want to host or create content for SS14, go to the [Space Station 14 repository](https://github.com/space-wizards/space-station-14) as it contains both RobustToolbox and the content pack for development of new content packs and is the base for your fork.
 
+<p align="center"> <img alt="Repobeats analytics" src="https://repobeats.axiom.co/api/embed/0c158e06c2a77cca94e783e73bcf71d47fbc0126.svg"/></p>
+
 <!--## Links
 
 [Goob Station Discord Server](https://discord.gg/goobstation) | [Goob Station Development Discord Server](https://discord.gg/zXk2cyhzPN) | [Goob Station Forum](https://forums.goobstation.com/) | [Goob Station Website](https://goobstation.com)-->
