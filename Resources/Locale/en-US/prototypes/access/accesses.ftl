@@ -19,11 +19,11 @@
 
 id-card-access-level-command = Command
 id-card-access-level-captain = Commanding Officer
-id-card-access-level-head-of-personnel = Head of Personnel
+id-card-access-level-head-of-personnel = Executive Officer
 id-card-access-level-cryogenics = Cryogenics
 id-card-access-level-emergency-shuttle-repeal = E.Shuttle Repeal All
 
-id-card-access-level-head-of-security = Head of Security
+id-card-access-level-head-of-security = Chief of Security
 id-card-access-level-security = Security
 id-card-access-level-armory = Armory
 id-card-access-level-brig = Brig
@@ -43,9 +43,9 @@ id-card-access-level-medical = Medical
 id-card-access-level-chemistry = Chemistry
 id-card-access-level-paramedic = Paramedic
 
-id-card-access-level-quartermaster = Quartermaster
-id-card-access-level-cargo = Cargo
-id-card-access-level-salvage = Salvage
+id-card-access-level-quartermaster = Deck Chief
+id-card-access-level-cargo = Deck Technician
+id-card-access-level-salvage = Prospector
 
 id-card-access-level-bar = Bar
 id-card-access-level-kitchen = Kitchen
