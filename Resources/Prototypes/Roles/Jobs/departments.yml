@@ -177,20 +177,10 @@
   - HeadOfSecurity
   - ResearchDirector
   - Quartermaster
-  - BlueshieldOfficer # Goobstation
-  - NanotrasenRepresentative # Goobstation
-  - NanotrasenCareerTrainer # Goobstation
-  - CentralCommandOfficial
-  - CBURN
-  - ERTLeader
-  - ERTChaplain
-  - ERTJanitor
-  - ERTMedical
-  - ERTSecurity
-  - ERTEngineer
-  - DeathSquad
-  - HecuOperative
-  - CommandMaid # event-restricted, Goobstation
+#  - Pathfinder
+#  - NanotrasenRepresentative # Goobstation
+#  - NanotrasenCareerTrainer # Goobstation
+#  - CentralCommandOfficial
   primary: false
   weight: 100
 
@@ -200,7 +190,6 @@
   description: department-Engineering-description
   color: "#E87E02"
   roles:
-  - AtmosphericTechnician
   - ChiefEngineer
   - StationEngineer
   - TechnicalAssistant
@@ -217,7 +206,6 @@
   - MedicalIntern
   - Psychologist
   - Paramedic
-  - Virologist # Gooby goob ba gooby goob ba
 
 - type: department
   id: Security
@@ -227,12 +215,9 @@
   weight: 20
   roles:
   - HeadOfSecurity
-  - SecurityCadet
   - SecurityOfficer
   - Detective
   - Warden
-  - Brigmedic # Goob
-  - SecurityClown # event-restricted, Goob
 
 - type: department
   id: Science
@@ -244,6 +229,17 @@
   - Scientist
   - ResearchAssistant
   - Roboticist #Goob
+
+# TODO
+#- type: department
+#  id: Exploration
+#  name: departament-Exploration
+#  description: departament-Exploration-description
+#  color: "#8b34c9"
+#  roles:
+#  - Pathfinder
+#  - ShuttlePilot
+#  - Explorer
 
 - type: department
   id: Silicon
