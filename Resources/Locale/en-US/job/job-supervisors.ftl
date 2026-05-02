@@ -11,19 +11,19 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-job-supervisors-centcom = Central Command
-job-supervisors-captain = the Captain
-job-supervisors-hop = the Head of Personnel
-job-supervisors-hos = the Head of Security
+job-supervisors-centcom = the Sol Gov
+job-supervisors-captain = the Commanding Officer
+job-supervisors-hop = the Executive Officer
+job-supervisors-hos = the Chief of Security
 job-supervisors-ce = the Chief Engineer
 job-supervisors-cmo = the Chief Medical Officer
-job-supervisors-rd = the Research Director
-job-supervisors-qm = the Quartermaster
-job-supervisors-command = the station's command staff
-job-supervisors-service = Chefs, Botanists, the Bartender, and the Head of Personnel
-job-supervisors-engineering = Station Engineers, Atmospheric Technicians, and the Chief Engineer
+job-supervisors-rd = the Chief Science Officer
+job-supervisors-qm = the Deck Chief
+job-supervisors-command = the ship's command staff
+job-supervisors-service = Chief Steward, and the Executive Officer
+job-supervisors-engineering = Engineers, Roboticists, Senior Engineers and the Chief Engineer
 job-supervisors-medicine = Medical Doctors, Paramedics, Chemists, and the Chief Medical Officer
-job-supervisors-security = Security Officers, the Warden, and the Head of Security
-job-supervisors-science = Scientists and the Research Director
+job-supervisors-security = Master at Arms, the Brig Chief, and the Chief of Security
+job-supervisors-science = Scientists and the Chief Science Officer
 job-supervisors-hire = whoever hires you
 job-supervisors-everyone = absolutely everyone

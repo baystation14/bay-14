@@ -168,7 +168,7 @@
   id: Command
   name: department-Command
   description: department-Command-description
-  color: "#334E6D"
+  color: "#294DCF"
   roles:
   - Captain
   - ChiefEngineer
@@ -198,7 +198,7 @@
   id: Engineering
   name: department-Engineering
   description: department-Engineering-description
-  color: "#EFB341"
+  color: "#E87E02"
   roles:
   - AtmosphericTechnician
   - ChiefEngineer
@@ -209,7 +209,7 @@
   id: Medical
   name: department-Medical
   description: department-Medical-description
-  color: "#52B4E9"
+  color: "#14B0B4"
   roles:
   - Chemist
   - ChiefMedicalOfficer
@@ -223,7 +223,7 @@
   id: Security
   name: department-Security
   description: department-Security-description
-  color: "#DE3A3A"
+  color: "#D13F25"
   weight: 20
   roles:
   - HeadOfSecurity

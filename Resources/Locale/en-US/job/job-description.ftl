@@ -29,7 +29,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-job-description-technical-assistant = Learn the basics of managing the station's power, as well as repairing the station's hull.
+job-description-technical-assistant = You are an Engineer Trainee. You are learning how to operate the various onboard engineering systems from senior engineering staff. You are subordinate to all of the other engineers aboard. The role is only for players new to the engineering system and department.
 job-description-atmostech = Optimize the station's atmospherics setup, and synthesize rare gases to use or sell.
 job-description-bartender = Manage the bar and keep it lively, give out drinks, and listen to the crew's stories.
 job-description-botanist = Grow food for the chef, drugs for medbay, and other plants to keep yourself entertained.

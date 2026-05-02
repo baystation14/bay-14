@@ -11,14 +11,15 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-department-Cargo = Cargo
+department-Cargo = Supply
+department-Exploration = Exploration
 department-Civilian = Civilian
 department-Command = Command
 department-CentralCommand = Central Command
 department-Engineering = Engineering
 department-Medical = Medical
 department-Security = Security
-department-Science = Science
+department-Science = Research
 department-Silicon = Silicon
 department-Specific = Station specific
 
