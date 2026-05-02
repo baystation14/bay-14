@@ -211,7 +211,7 @@
 - type: entity
   parent: [ClothingHeadsetAltLoudspeaker, BaseCommandContraband] # goob
   id: ClothingHeadsetAltScience
-  name: research director's over-ear headset
+  name: chief science officer's over-ear headset
   components:
   - type: ContainerFill
     containers:

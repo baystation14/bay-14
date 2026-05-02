@@ -1489,7 +1489,7 @@
 - type: entity
   parent: ClothingUniformJumpsuitResearchDirector
   id: ClothingUniformJumpsuitMilitaryResearchDirector
-  description: It's a jumpsuit worn by those with the know-how to achieve the position of Research Director. Its fabric provides minor protection from biological contaminants.
+  description: It's a jumpsuit worn by those with the know-how to achieve the position of Chief Science Officer. Its fabric provides minor protection from biological contaminants.
   suffix: Military
   components:
   - type: Sprite

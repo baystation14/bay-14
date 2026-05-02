@@ -170,7 +170,7 @@
 - type: entity
   id: DresserResearchDirectorFilled
   parent: Dresser
-  suffix: Filled, Research Director
+  suffix: Filled, Chief Science Officer
   components:
   - type: StorageFill
     contents:

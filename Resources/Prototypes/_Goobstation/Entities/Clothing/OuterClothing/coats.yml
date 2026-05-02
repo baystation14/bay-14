@@ -98,7 +98,7 @@
 - type: entity
   parent: [ClothingOuterStorageFoldableBase, ClothingOuterCoatRD]
   id: ClothingOuterCoatRDPurple
-  name: research director's experimental lab coat
+  name: chief science officer's experimental lab coat
   description: Woven with experimental technology... this labcoat seems no more protective than your usual one. At least it looks nice.
   components:
   - type: Sprite
@@ -121,7 +121,7 @@
 - type: entity
   parent: [ClothingOuterStorageFoldableBaseOpened, ClothingOuterCoatRD]
   id: ClothingOuterCoatRDPurpleOpened
-  name: research director's experimental lab coat
+  name: chief science officer's experimental lab coat
 
 #hop longcoat
 - type: entity

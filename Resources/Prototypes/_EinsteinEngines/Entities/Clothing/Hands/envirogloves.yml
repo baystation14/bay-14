@@ -492,7 +492,7 @@
 - type: entity
   parent: ClothingHandsGlovesEnviroglovesBase
   id: ClothingHandsGlovesEnviroglovesResearchDirector
-  name: research director's envirogloves
+  name: chief science officer's envirogloves
   description: Covers up those scandalous boney hands.
   components:
   - type: Sprite

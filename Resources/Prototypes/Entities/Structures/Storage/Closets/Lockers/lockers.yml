@@ -356,7 +356,7 @@
 - type: entity
   id: LockerResearchDirector
   parent: LockerBase
-  name: research director's locker
+  name: chief science officer's locker
   components:
   - type: Appearance
   - type: EntityStorageVisuals

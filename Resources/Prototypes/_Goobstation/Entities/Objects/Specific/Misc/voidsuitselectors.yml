@@ -79,10 +79,10 @@
     - VoidsuitSelectorCaptainVoidsuit
     - VoidsuitSelectorCaptainHardsuit
 
-#Research Director RD suits
+#Chief Science Officer RD suits
 - type: entity
   id: UndeterminedVoidsuitRD
-  name: research director hardsuit selector
+  name: chief science officer hardsuit selector
   description: A small remote utilizing bluespace technology to drop in a hardsuit or modsuit of your choosing.
   parent: [ BaseItem, BaseSetSelector, BaseCommandContraband ]
   components:

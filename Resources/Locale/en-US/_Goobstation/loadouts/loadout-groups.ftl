@@ -1,7 +1,7 @@
-# Research Director
-loadout-group-research-director-envirohelm = Research Director envirohelm
-loadout-group-research-director-envirosuit = Research Director envirosuit
-loadout-group-research-director-envirogloves = Research Director envirogloves
+# Chief Science Officer
+loadout-group-research-director-envirohelm = Chief Science Officer envirohelm
+loadout-group-research-director-envirosuit = Chief Science Officer envirosuit
+loadout-group-research-director-envirogloves = Chief Science Officer envirogloves
 
 # Scientist
 loadout-group-scientist-envirohelm = Scientist envirohelm

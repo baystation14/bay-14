@@ -338,8 +338,8 @@
 - type: entity
   parent: [ClothingUniformBase, BaseCommandContraband]
   id: ClothingUniformJumpsuitRDSummer
-  name: research director's summer shirt
-  description: The research director's custom-commissioned summer outfit, for when those fire anomalies are making you sweat.
+  name: chief science officer's summer shirt
+  description: The chief science officer's custom-commissioned summer outfit, for when those fire anomalies are making you sweat.
   components:
   - type: Sprite
     sprite: _Goobstation/Clothing/Uniforms/Jumpsuit/Casual/casualshirt_rd.rsi
@@ -471,8 +471,8 @@
 - type: entity
   parent: [ClothingUniformBase, ClothingUniformFoldableBase, BaseCommandContraband]
   id: ClothingUniformJumpsuitResearchDirectorAlt
-  name: research director's turtleneck
-  description: It's a turtleneck worn by those with the know-how to achieve the position of Research Director. Its fabric provides minor protection from biological contaminants.
+  name: chief science officer's turtleneck
+  description: It's a turtleneck worn by those with the know-how to achieve the position of Chief Science Officer. Its fabric provides minor protection from biological contaminants.
   components:
   - type: Sprite
     sprite: _Goobstation/Clothing/Uniforms/Jumpsuit/RND/rndturtle.rsi

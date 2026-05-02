@@ -281,8 +281,8 @@
 - type: entity
   parent: ClothingUniformEnvirosuitBase
   id: ClothingUniformEnvirosuitResearchDirector
-  name: research director's envirosuit
-  description: It's an envirosuit worn by those with the know-how to achieve the position of Research Director.
+  name: chief science officer's envirosuit
+  description: It's an envirosuit worn by those with the know-how to achieve the position of Chief Science Officer.
   components:
   - type: Sprite
     sprite: _EinsteinEngines/Clothing/Uniforms/Envirosuits/rd.rsi

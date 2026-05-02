@@ -241,9 +241,9 @@ selectable-set-captain-modsuit-desc =
     make even the toughest of times leading seem like nothing to you.
 
 
-selectable-set-research-director-voidsuit-name = RD's hardsuit
+selectable-set-research-director-voidsuit-name = CSO's hardsuit
 selectable-set-research-director-voidsuit-desc =
-    The Research Director's light hardsuit fitted for experiments, lightly
+    The Chief Science Officer's light hardsuit fitted for experiments, lightly
     armored to protect from assistants breaking in, all while still retaining
     common spacewalking capabilities.
 

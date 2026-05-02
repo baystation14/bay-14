@@ -148,11 +148,11 @@ loadout-group-atmospheric-technician-outerclothing = Atmospheric Technician oute
 loadout-group-atmospheric-technician-shoes = Atmospheric Technician shoes
 
 # Science
-loadout-group-research-director-head = Research Director head
-loadout-group-research-director-neck = Research Director neck
-loadout-group-research-director-jumpsuit = Research Director jumpsuit
-loadout-group-research-director-outerclothing = Research Director outer clothing
-loadout-group-research-director-shoes = Research Director shoes
+loadout-group-research-director-head = Chief Science Officer head
+loadout-group-research-director-neck = Chief Science Officer neck
+loadout-group-research-director-jumpsuit = Chief Science Officer jumpsuit
+loadout-group-research-director-outerclothing = Chief Science Officer outer clothing
+loadout-group-research-director-shoes = Chief Science Officer shoes
 
 loadout-group-scientist-head = Scientist head
 loadout-group-scientist-neck = Scientist neck

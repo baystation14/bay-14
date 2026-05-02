@@ -100,7 +100,7 @@
     - RandomHumanoidVisitorHOS
 
 - type: entity
-  name: visiting research director spawner
+  name: visiting chief science officer spawner
   id: VisitorRDSpawner
   parent: MarkerBase
   components:

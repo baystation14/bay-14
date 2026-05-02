@@ -44,7 +44,7 @@
         orGroup: Medkit
         prob: 0.25
 
-# Research Director
+# Chief Science Officer
 - type: entity
   parent: BaseMail
   id: MailResearchDisk

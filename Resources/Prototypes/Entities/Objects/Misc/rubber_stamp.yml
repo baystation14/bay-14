@@ -297,7 +297,7 @@
     state: stamp-qm
 
 - type: entity
-  name: research director's rubber stamp
+  name: chief science officer's rubber stamp
   parent: [RubberStampBase, BaseCommandContraband]
   id: RubberStampRd
   categories: [ DoNotMap ]
