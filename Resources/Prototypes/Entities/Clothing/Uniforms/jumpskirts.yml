@@ -133,7 +133,7 @@
   parent: [ClothingUniformSkirtBase, ClothingUniformFoldableBase, BaseCommandContraband] # Goob
   id: ClothingUniformJumpskirtCaptain
   name: commanding officer's jumpskirt
-  description: It's a blue jumpskirt with some gold markings denoting the rank of "Captain".
+  description: It's a blue jumpskirt with some gold markings denoting the rank of "Commanding Officer".
   components:
   - type: Sprite
     sprite: _Goobstation/Clothing/Uniforms/Jumpskirt/Civilian/captain.rsi # Goob

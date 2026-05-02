@@ -67,8 +67,8 @@
 - type: entity
   parent: [ClothingNeckBase, BaseCommandContraband]
   id: ClothingNeckCloakVetCap
-  name: Veteran Captain's cloak
-  description: Captains Aura Cloak
+  name: Veteran Commanding officer's cloak
+  description: Commanding officer Aura Cloak
   components:
   - type: Item
     size: Small
