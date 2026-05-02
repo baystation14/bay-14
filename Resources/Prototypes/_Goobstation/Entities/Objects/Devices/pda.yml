@@ -342,7 +342,7 @@
        !type:String
        pda-roboticist
   - type: PdaBorderColor
-    borderColor: "#161616"
+    borderColor: "#e87e02"
     accentVColor: "#cc4d03"
   - type: Icon
     state: pda-roboticist

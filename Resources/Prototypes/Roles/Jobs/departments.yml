@@ -193,6 +193,7 @@
   - ChiefEngineer
   - StationEngineer
   - TechnicalAssistant
+  - Roboticist
 
 - type: department
   id: Medical
@@ -228,7 +229,6 @@
   - ResearchDirector
   - Scientist
   - ResearchAssistant
-  - Roboticist #Goob
 
 # TODO
 #- type: department
