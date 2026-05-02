@@ -228,13 +228,13 @@ selectable-set-engineering-modsuit-desc =
     replaced with external cameras to better protect against explosions
     and other external threats.
 
-selectable-set-captain-voidsuit-name = Captain's parade hardsuit
+selectable-set-captain-voidsuit-name = Commanding officer's parade hardsuit
 selectable-set-captain-voidsuit-desc =
-    Captain's light hardsuit made custom fitted for formal occasions, lightly
+    Commanding officer's light hardsuit made custom fitted for formal occasions, lightly
     armored to protect during a calm shift, all while still retaining
     common spacewalking capabilities.
 
-selectable-set-captain-modsuit-name = Captain's 'Magnate' modsuit
+selectable-set-captain-modsuit-name = Commanding officer's 'Magnate' modsuit
 selectable-set-captain-modsuit-desc =
     A modular hardsuit perfectly shined, adorned, and armored for the best of
     the best, fitted with custom plating, cooling fluid, and diamonds to

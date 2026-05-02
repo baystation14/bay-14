@@ -139,7 +139,7 @@
         maxDistance: 5
 
 - type: entity
-  name: captain's rubber stamp
+  name: commanding officer's rubber stamp
   parent: [RubberStampBase, BaseCommandContraband]
   id: RubberStampCaptain
   categories: [ DoNotMap ]

@@ -1,7 +1,7 @@
 - type: entity
   parent: [ClothingNeckBase, BaseCommandContraband]
   id: ClothingNeckEnsembleCaptain
-  name: captain's ensemble
+  name: commanding officer's ensemble
   description: You're a hardened veteran, and you rule this station with an iron fist. That chess match? Never happened.
   suffix: DO NOT MAP
   components:

@@ -35,7 +35,7 @@
 - type: entity
   parent: [ BaseCommandContraband , ClothingBackpackMessengerBase ]
   id: ClothingBackpackMessengerCaptain
-  name: captain's messenger bag
+  name: commanding officer's messenger bag
   description: A robust bag made exclusively for Nanotrasen officers.
   components:
   - type: Sprite

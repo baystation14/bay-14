@@ -132,7 +132,7 @@
 - type: entity
   parent: [ClothingUniformSkirtBase, ClothingUniformFoldableBase, BaseCommandContraband] # Goob
   id: ClothingUniformJumpskirtCaptain
-  name: captain's jumpskirt
+  name: commanding officer's jumpskirt
   description: It's a blue jumpskirt with some gold markings denoting the rank of "Captain".
   components:
   - type: Sprite
@@ -634,7 +634,7 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtCapFormalDress
-  name: captain's formal dress
+  name: commanding officer's formal dress
   description: A dress for special occasions.
   components:
   - type: Sprite

@@ -513,7 +513,7 @@
 - type: entity
   parent: ClothingHeadHardsuitWithLightBase
   id: ClothingHeadHelmetHardsuitCap
-  name: captain's spacesuit helmet # Goob edit
+  name: commanding officer's spacesuit helmet # Goob edit
   description: Special spacesuit helmet, made for the captain of the station. # Goob edit
   components:
   - type: Sprite

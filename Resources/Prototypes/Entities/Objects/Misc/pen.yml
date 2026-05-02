@@ -226,24 +226,24 @@
     heldPrefix: pen_centcom
 
 - type: entity
-  name: captain's fountain pen
+  name: officer's fountain pen
   # Goobstation - Return pen embeddability
   parent: Pen
-  id: PenCap
-  description: A luxurious fountain pen for the captain of the station.
+  id: PenOfficer
+  description: A luxurious fountain pen for the officers.
   components:
   - type: Sprite
     state: pen_cap
 
-- type: entity
-  name: hop's fountain pen
-  # Goobstation - Return pen embeddability
-  parent: Pen
-  id: PenHop
-  description: A luxurious fountain pen for the hop of the station.
-  components:
-  - type: Sprite
-    state: pen_hop
+#- type: entity
+#  name: hop's fountain pen
+#  # Goobstation - Return pen embeddability
+#  parent: Pen
+#  id: PenHop
+#  description: A luxurious fountain pen for the hop of the station.
+#  components:
+#  - type: Sprite
+#    state: pen_hop
 
 - type: entity
   name: wizard's magical pen

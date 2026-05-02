@@ -618,8 +618,8 @@
 - type: entity
   parent: [ClothingOuterHardsuitBase, BaseCommandContraband]
   id: ClothingOuterHardsuitCap
-  name: captain's parade hardsuit # Goob edit
-  description: A formal and slightly armored hardsuit, made for the station's captain. # Goob edit
+  name: commanding officer's parade hardsuit # Goob edit
+  description: A formal and slightly armored hardsuit, made for the commanding officers. # Goob edit
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/Hardsuits/capspace.rsi

@@ -34,8 +34,8 @@
 - type: entity
   parent: ClothingUniformEnvirosuitBase
   id: ClothingUniformEnvirosuitCaptain
-  name: captain's envirosuit
-  description: It's a blue envirosuit with some gold markings denoting the rank of "Captain".
+  name: commanding officer's envirosuit
+  description: It's a blue envirosuit with some gold markings denoting the rank of "Commanding officer".
   components:
   - type: Sprite
     sprite: _EinsteinEngines/Clothing/Uniforms/Envirosuits/captain.rsi

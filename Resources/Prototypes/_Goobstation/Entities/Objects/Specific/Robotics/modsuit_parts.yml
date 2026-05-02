@@ -235,7 +235,7 @@
 - type: entity
   id: ModsuitPlatingCaptain
   parent: PartModsuit
-  name: MOD standard captain's magnate plating
+  name: MOD standard commanding officer's magnate plating
   description: A part used in MOD construction.
   components:
   - type: Sprite

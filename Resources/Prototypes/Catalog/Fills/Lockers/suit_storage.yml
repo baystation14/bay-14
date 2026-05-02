@@ -274,7 +274,7 @@
   - type: AccessReader
     access: [["Armory"]]
 
-#Captain's hardsuit
+#Commanding officer's hardsuit
 - type: entity
   id: SuitStorageCaptain
   parent: SuitStorageBase

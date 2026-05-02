@@ -173,8 +173,8 @@
 - type: entity
   parent: [FlaskBase, DrinkFlaskVisualsOpenable]
   id: DrinkFlask
-  name: captain's flask
-  description: A metal flask belonging to the captain.
+  name: officer's flask
+  description: A metal flask belonging to some officer.
   components:
   - type: Sprite
     sprite: Objects/Consumable/Drinks/flask.rsi

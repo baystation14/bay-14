@@ -59,8 +59,8 @@
 - type: entity
   parent: ClothingHeadEnvirohelmBase
   id: ClothingHeadEnvirohelmCaptain
-  name: captain's envirosuit helmet
-  description: A special containment helmet designed for the Captain.
+  name: commanding officer's envirosuit helmet
+  description: A special containment helmet designed for the Commanding officer.
   components:
   - type: Sprite
     sprite: _EinsteinEngines/Clothing/Head/Envirohelms/captain.rsi

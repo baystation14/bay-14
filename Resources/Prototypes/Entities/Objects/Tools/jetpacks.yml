@@ -183,7 +183,7 @@
 - type: entity
   id: JetpackCaptain
   parent: [BaseJetpack, BaseGrandTheftContraband]
-  name: captain's jetpack
+  name: commanding officer's jetpack
   suffix: Empty
   components:
   - type: Sprite
@@ -206,7 +206,7 @@
 - type: entity
   id: JetpackCaptainFilled
   parent: JetpackCaptain
-  name: captain's jetpack
+  name: commanding officer's jetpack
   suffix: Filled
   components:
   - type: GasTank

@@ -440,7 +440,7 @@
 - type: entity
   parent: [ ClothingHeadHatArmored, ClothingHeadHatBeretRND, BaseCommandContraband ] #goob
   id: ClothingHeadHatCaptain
-  name: captain's hardhat
+  name: commanding officer's hardhat
   description: Feels good being the king.
   components:
   - type: Sprite

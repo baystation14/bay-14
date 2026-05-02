@@ -44,7 +44,7 @@
   - type: StorageFill
     contents:
     - id: PenCentcom # Reference to half life. If you look inside G-Mans briefcase, this is whats inside.
-    - id: PenCap # Todo - Maybe make these unique pens?
+    - id: PenOfficer # Todo - Maybe make these unique pens?
     - id: CyberPen
     - id: Paper
     - id: ExecutiveIDCard

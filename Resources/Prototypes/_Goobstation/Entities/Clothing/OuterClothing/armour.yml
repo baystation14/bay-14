@@ -125,7 +125,7 @@
 - type: entity
   parent: [ ClothingOuterArmorCaptainCarapace, ClothingOuterStorageBase ]
   id: ClothingOuterCapJacket
-  name: captain's armored jacket
+  name: commanding officer's armored jacket
   description: An extremely expensive jacket with extra durathread protection at the chest.
   components:
   - type: Sprite
@@ -146,7 +146,7 @@
 - type: entity
   parent: [ ClothingOuterArmorCaptainCarapace, ClothingOuterWinterCoatToggleable ]
   id: ClothingOuterWinterCapArmored
-  name: captain's fancy winter coat
+  name: commanding officer's fancy winter coat
   description: An ornate winter coat with a ballistic plate made for the station's finest.
   components:
   - type: Sprite

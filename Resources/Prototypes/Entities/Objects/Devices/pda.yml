@@ -837,7 +837,7 @@
   - type: Pda
     id: CaptainIDCard
     penSlot:
-      startingItem: PenCap
+      startingItem: PenOfficer
       priority: -1
       whitelist:
         tags:
@@ -861,7 +861,7 @@
   - type: Pda
     id: HoPIDCard
     penSlot:
-      startingItem: PenHop
+      startingItem: PenOfficer
       priority: -1
       whitelist:
         tags:
