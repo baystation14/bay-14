@@ -515,7 +515,7 @@
     mask: /Textures/Effects/LightMasks/cone.png
     autoRot: true
   - type: AccessReader
-    access: [["HeadOfPersonnel"]]
+    access: [["ExecutiveOfficer"]]
   - type: Transform
     noRot: false
   - type: Rotatable

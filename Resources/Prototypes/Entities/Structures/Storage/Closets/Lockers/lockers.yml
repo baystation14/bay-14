@@ -134,7 +134,7 @@
     stateDoorOpen: cap_open
     stateDoorClosed: cap_door
   - type: AccessReader
-    access: [["Captain"]]
+    access: [["CommandingOfficer"]]
 
 - type: entity
   id: LockerHeadOfPersonnel
@@ -147,7 +147,7 @@
     stateDoorOpen: hop_open
     stateDoorClosed: hop_door
   - type: AccessReader
-    access: [["HeadOfPersonnel"]]
+    access: [["ExecutiveOfficer"]]
 
 # CE
 - type: entity

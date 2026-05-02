@@ -26,7 +26,7 @@ public sealed class JobTest
 {
     private static readonly ProtoId<JobPrototype> Passenger = "Passenger";
     private static readonly ProtoId<JobPrototype> Engineer = "StationEngineer";
-    private static readonly ProtoId<JobPrototype> Captain = "Captain";
+    private static readonly ProtoId<JobPrototype> Captain = "CommandingOfficer";
 
     private static string _map = "JobTestMap";
 

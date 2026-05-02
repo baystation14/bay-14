@@ -285,7 +285,7 @@
       entity_storage: !type:NestedSelector
         tableId: FillCaptainHardsuit
   - type: AccessReader
-    access: [["Captain"]]
+    access: [["CommandingOfficer"]]
 
 #Salvage hardsuit
 - type: entity

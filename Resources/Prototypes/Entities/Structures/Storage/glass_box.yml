@@ -131,7 +131,7 @@
   suffix: AntiqueLaser
   components:
   - type: AccessReader
-    access: [["Captain"]]
+    access: [["CommandingOfficer"]]
   - type: Construction
     graph: GlassBox
     node: glassBox

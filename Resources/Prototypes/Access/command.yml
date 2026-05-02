@@ -15,26 +15,26 @@
   name: id-card-access-level-command
 
 - type: accessLevel
-  id: Captain
+  id: CommandingOfficer
   name: id-card-access-level-captain
 
 - type: accessLevel
-  id: HeadOfPersonnel
+  id: ExecutiveOfficer
   name: id-card-access-level-head-of-personnel
 
 - type: accessGroup
   id: Command
   tags:
-  - Captain
+  - CommandingOfficer
   - Command
   - ChiefEngineer
   - ChiefMedicalOfficer
   - Cryogenics
-  - HeadOfPersonnel
+  - ExecutiveOfficer
   - HeadOfSecurity
   - Quartermaster
   - ResearchDirector
-  
+
 - type: accessLevel
   id: EmergencyShuttleRepealAll
   name: id-card-access-level-emergency-shuttle-repeal

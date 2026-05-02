@@ -17,7 +17,7 @@
   suffix: Captain, Locked
   components:
   - type: AccessReader
-    access: [["Captain"]]
+    access: [["CommandingOfficer"]]
 
 - type: entity
   parent: DoorElectronics
@@ -25,7 +25,7 @@
   suffix: HeadOfPersonnel, Locked
   components:
   - type: AccessReader
-    access: [["HeadOfPersonnel"]]
+    access: [["ExecutiveOfficer"]]
 
 - type: entity
   parent: DoorElectronics
