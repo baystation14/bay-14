@@ -128,8 +128,8 @@
 - type: entity
   parent: ClothingUniformEnvirosuitBase
   id: ClothingUniformEnvirosuitHoP
-  name: head of personnel's envirosuit
-  description: It's an envirosuit worn by someone who works in the position of "Head of Personnel".
+  name: executive officer's envirosuit
+  description: It's an envirosuit worn by someone who works in the position of "Executive Officer".
   components:
   - type: Sprite
     sprite: _EinsteinEngines/Clothing/Uniforms/Envirosuits/hop.rsi
@@ -139,8 +139,8 @@
 - type: entity
   parent: ClothingUniformEnvirosuitBase
   id: ClothingUniformEnvirosuitHoS
-  name: head of security's envirosuit
-  description: A Plasmaman containment suit decorated for those few with the dedication to achieve the position of Head of Security.
+  name: chief of security's envirosuit
+  description: A Plasmaman containment suit decorated for those few with the dedication to achieve the position of Chief of Security.
   components:
   - type: Sprite
     sprite: _EinsteinEngines/Clothing/Uniforms/Envirosuits/hos.rsi

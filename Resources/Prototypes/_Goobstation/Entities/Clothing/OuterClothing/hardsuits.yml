@@ -286,7 +286,7 @@
   - type: StaminaResistance
     damageCoefficient: 0.6
 
-# Head of Security's experimental voidsuit
+# Chief of Security's experimental voidsuit
 - type: entity
   parent: ClothingOuterHardsuitSecurityRed
   id: ClothingOuterHardsuitHeadOfSecurityExperimental

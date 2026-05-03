@@ -35,7 +35,7 @@
   categories: [ ]
   parent: MobHumanSecurityBase
   id: MobHumanHosModSuit
-  name: Head Of Security ModSuit
+  name: Chief of Security ModSuit
   components:
   - type: Loadout
     prototypes: [ SecurityHoSModSuit ]
@@ -50,7 +50,7 @@
   categories: [ ]
   parent: MobHumanSecurityBase
   id: MobHumanHoSSuit
-  name: Head Of Security Suit
+  name: Chief of Security Suit
   components:
   - type: Loadout
     prototypes: [ SecurityHoSSuit ]
@@ -155,7 +155,7 @@
   categories: [ ]
   parent: MobHumanSecurityBase
   id: MobHumanHos
-  name: Head Of Security
+  name: Chief of Security
   components:
   - type: Loadout
     prototypes: [ HoSGearDebug ]

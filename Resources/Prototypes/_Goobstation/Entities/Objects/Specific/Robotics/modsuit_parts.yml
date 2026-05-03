@@ -215,7 +215,7 @@
 - type: entity
   id: ModsuitPlatingHeadOfSecurity
   parent: PartModsuit
-  name: MOD standard head of security 'bulwark' plating
+  name: MOD standard chief of security 'bulwark' plating
   description: A part used in MOD construction.
   components:
   - type: Sprite

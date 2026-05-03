@@ -152,7 +152,7 @@
 - type: entity
   parent: [ClothingNeckBase, BaseCommandContraband]
   id: ClothingNeckEnsembleHeadOfSecurity
-  name: head of security's ensemble
+  name: chief of security's ensemble
   description: Stained with the blood of tiders, and the tears of cadets. The word "shitsec" brings you joy, a tear to your eye.
   suffix: DO NOT MAP
   components:
@@ -196,7 +196,7 @@
 - type: entity
   parent: [ClothingNeckBase, BaseCommandContraband]
   id: ClothingNeckEnsembleResearchDirector
-  name: research director's ensemble
+  name: chief science officer's ensemble
   description: The endpoint of all research leads here. You truly are the pinnacle of science, a monument to Nanotrasens accomplishments and ability to glue you back together, must you explode so often?
   suffix: DO NOT MAP
   components:
@@ -304,7 +304,7 @@
 - type: entity
   parent: [ClothingNeckBase, BaseCommandContraband]
   id: ClothingNeckEnsembleHeadOfPersonnel
-  name: head of personnel's ensemble
+  name: executive officer's ensemble
   description: There's nothing sweeter in this world than the tears of someone who was made to fill out five paragraphs of paperwork. You denied them after, of course.
   suffix: DO NOT MAP
   components:

@@ -326,7 +326,7 @@
 - type: entity
   parent: [ClothingHeadHatArmored, ClothingHeadHatBeretRND, BaseSecurityCommandContraband] # Goob edit
   id: ClothingHeadHatBeretHoS
-  name: head of security's beret
+  name: chief of security's beret
   description: A black beret with a commander's rank emblem. For officers that are more inclined towards style than safety.
   components:
   - type: Sprite
@@ -574,8 +574,8 @@
 - type: entity
   parent: [ClothingHeadBase, BaseCommandContraband]
   id: ClothingHeadHatHopcap
-  name: head of personnel's cap
-  description: A stylish cap worn by the Head of Personnel. Shows paperwork who's in charge.
+  name: executive officer's cap
+  description: A stylish cap worn by the Executive Officer. Shows paperwork who's in charge.
   components:
   - type: Sprite
     sprite: Clothing/Head/Hats/hopcap.rsi
@@ -594,8 +594,8 @@
 - type: entity
   parent: [ClothingHeadHatArmored, ClothingHeadBase, BaseCommandContraband] #goob
   id: ClothingHeadHatHoshat
-  name: head of security cap
-  description: A stylish cap worn by the Head of Security. Shows the officers who's in charge.
+  name: chief of security cap
+  description: A stylish cap worn by the Chief of Security. Shows the officers who's in charge.
   components:
   - type: Sprite
     sprite: Clothing/Head/Hats/hoshat.rsi

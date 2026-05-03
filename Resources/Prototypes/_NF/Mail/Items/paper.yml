@@ -105,7 +105,7 @@
 
 - type: entity
   id: PaperMailNFVagueThreat8
-  categories: [ HideSpawnMenu ] 
+  categories: [ HideSpawnMenu ]
   suffix: "vague mail threat 8, formatted"
   parent: Paper
   components:
@@ -271,7 +271,7 @@
 
 - type: entity
   id: PaperMailNTSoapAd2
-  categories: [ HideSpawnMenu ] 
+  categories: [ HideSpawnMenu ]
   suffix: "soap ad 2" #DeltaV - Edited to not be addressed to Frontier Citizens, localized
   parent: Paper
   components:
@@ -316,7 +316,7 @@
 - type: entity
   id: PaperMailNFPaperPusherAd
   categories: [ HideSpawnMenu ]
-  suffix: "paper pusher" 
+  suffix: "paper pusher"
   parent: Paper
   components:
   - type: Paper
@@ -340,7 +340,7 @@
   components:
   - type: Paper
     content: |2
-      
+
       [head=1]HÖGANÄS[/head]
 
       [italic](There is a black and white picture of a pet bed on the first page.)[/italic]
@@ -418,7 +418,7 @@
 
       You have been selected to receive a NT EMP Preparedness kit as a test. Note that this is only a test. In a real emergency, follow the instructions of your vessel's command staff.
 
-      As the recipient of this, please note [bold]any improvements[/bold] that could be made towards the EMP preparedness of the vessel you were aboard when opening and submit this form to your serving Captain or Head of Security.
+      As the recipient of this, please note [bold]any improvements[/bold] that could be made towards the EMP preparedness of the vessel you were aboard when opening and submit this form to your serving Commanding Officer or Chief of Security.
 
       [bold]Date of test:[/bold]
       [bold]Number of affected items:[/bold]
@@ -439,7 +439,7 @@
       stampedName: Chief Friendship Officer
     - stampedColor: '#333333FF'
       stampedName: Cuts-With-Scalpel
-#      stampType: Signature  #DeltaV - Not compatible with our signatures code stuff apparently. 
+#      stampType: Signature  #DeltaV - Not compatible with our signatures code stuff apparently.
     content: |2
 
       [head=1]Note of Adoption[/head]

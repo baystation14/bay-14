@@ -144,8 +144,8 @@
 - type: entity
   parent: ClothingHeadEnvirohelmBase
   id: ClothingHeadEnvirohelmHoP
-  name: head of personnel's envirosuit helmet
-  description: A special containment helmet designed for the Head of Personnel.
+  name: executive officer's envirosuit helmet
+  description: A special containment helmet designed for the Executive Officer.
   components:
   - type: Sprite
     sprite: _EinsteinEngines/Clothing/Head/Envirohelms/hop.rsi
@@ -155,8 +155,8 @@
 - type: entity
   parent: ClothingHeadEnvirohelmBase
   id: ClothingHeadEnvirohelmHoS
-  name: head of security's envirosuit helmet
-  description: A special containment helmet designed for the Head of Security. The pair of gold stripes differentiates them from other members of security.
+  name: chief of security's envirosuit helmet
+  description: A special containment helmet designed for the Chief of Security. The pair of gold stripes differentiates them from other members of security.
   components:
   - type: Sprite
     sprite: _EinsteinEngines/Clothing/Head/Envirohelms/hos.rsi
@@ -312,7 +312,7 @@
 - type: entity
   parent: ClothingHeadEnvirohelmBase
   id: ClothingHeadEnvirohelmResearchDirector
-  name: research director's envirosuit helmet
+  name: chief science officer's envirosuit helmet
   description: A special containment helmet designed for the Resarch Director. A light brown design is applied to differentiate them from other scientists.
   components:
   - type: Sprite

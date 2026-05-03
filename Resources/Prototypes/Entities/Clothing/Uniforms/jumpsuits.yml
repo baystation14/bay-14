@@ -476,7 +476,7 @@
 - type: entity
   parent: [ClothingUniformBase, ClothingUniformFoldableBase, BaseCommandContraband] # Goob
   id: ClothingUniformJumpsuitHoP
-  name: head of personnel's jumpsuit
+  name: executive officer's jumpsuit
   description: Rather bland and inoffensive. Perfect for vanishing off the face of the universe.
   components:
   - type: Sprite
@@ -485,7 +485,7 @@
 - type: entity
   parent: [ClothingUniformBase, ClothingUniformFoldableBase, BaseCommandContraband] # Goob
   id: ClothingUniformJumpsuitHoS
-  name: head of security's jumpsuit
+  name: chief of security's jumpsuit
   description: It's bright red and rather crisp, much like security's victims tend to be.
   components:
   - type: Sprite
@@ -508,8 +508,8 @@
 - type: entity
   parent: [ClothingUniformBase, ClothingUniformFoldableBase, BaseCommandContraband] # Goob
   id: ClothingUniformJumpsuitHoSAlt
-  name: head of security's turtleneck
-  description: It's a turtleneck worn by those strong and disciplined enough to achieve the position of Head of Security.
+  name: chief of security's turtleneck
+  description: It's a turtleneck worn by those strong and disciplined enough to achieve the position of Chief of Security.
   components:
   - type: Sprite
     sprite: _Goobstation/Clothing/Uniforms/Jumpsuit/Security/hos_alt.rsi # Goob
@@ -519,8 +519,8 @@
 - type: entity
   parent: [ClothingUniformBase, ClothingUniformFoldableBase, BaseCommandContraband] # Goob
   id: ClothingUniformJumpsuitHoSBlue
-  name: head of security's blue jumpsuit
-  description: A blue jumpsuit of Head of Security.
+  name: chief of security's blue jumpsuit
+  description: A blue jumpsuit of Chief of Security.
   components:
   - type: Sprite
     sprite: _Goobstation/Clothing/Uniforms/Jumpsuit/Security/hos_blue.rsi # Goob
@@ -530,8 +530,8 @@
 - type: entity
   parent: [ClothingUniformBase, ClothingUniformFoldableBase, BaseCommandContraband] # Goob
   id: ClothingUniformJumpsuitHoSGrey
-  name: head of security's grey jumpsuit
-  description: A grey jumpsuit of Head of Security, which make him look somewhat like a passenger.
+  name: chief of security's grey jumpsuit
+  description: A grey jumpsuit of Chief of Security, which make him look somewhat like a passenger.
   components:
   - type: Sprite
     sprite: _Goobstation/Clothing/Uniforms/Jumpsuit/Security/hos_grey.rsi # Goob
@@ -541,8 +541,8 @@
 - type: entity
   parent: [ClothingUniformBase, BaseCommandContraband]
   id: ClothingUniformJumpsuitHoSParadeMale
-  name: head of security's parade uniform
-  description: A male head of security's luxury-wear, for special occasions.
+  name: chief of security's parade uniform
+  description: A male chief of security's luxury-wear, for special occasions.
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpsuit/hos_parade.rsi

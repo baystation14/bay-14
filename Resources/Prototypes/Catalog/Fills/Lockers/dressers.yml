@@ -139,7 +139,7 @@
 - type: entity
   id: DresserHeadOfSecurityFilled
   parent: Dresser
-  suffix: Filled, Head Of Security
+  suffix: Filled, Chief Of Security
   components:
   - type: StorageFill
     contents:

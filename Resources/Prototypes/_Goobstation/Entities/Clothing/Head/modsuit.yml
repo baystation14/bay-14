@@ -40,7 +40,7 @@
       - state: equipped-HEAD-vox
       head-vulpkanin:
       - state: equipped-HEAD-vulpkanin
-    
+
   - type: Tag
     tags:
     - WhitelistChameleon

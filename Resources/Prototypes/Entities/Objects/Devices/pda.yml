@@ -1048,7 +1048,7 @@
 - type: entity
   parent: BaseSecurityPDA
   id: HoSPDA
-  name: head of security PDA
+  name: chief of security PDA
   description: Whosoever bears this PDA is the law.
   components:
   - type: Pda

@@ -348,7 +348,7 @@
 - type: entity
   parent: [ClothingOuterWinterCoatToggleable, BaseCommandContraband]
   id: ClothingOuterWinterHoP
-  name: head of personnel's winter coat
+  name: executive officer's winter coat
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coathop.rsi
@@ -362,8 +362,8 @@
 - type: entity
   parent: [ClothingOuterArmorHoS, ClothingOuterWinterCoatToggleable, BaseSecurityCommandContraband]
   id: ClothingOuterWinterHoS
-  name: head of security's armored winter coat
-  description: A sturdy, utilitarian winter coat designed to protect a head of security from any brig-bound threats and hypothermic events.
+  name: chief of security's armored winter coat
+  description: A sturdy, utilitarian winter coat designed to protect a chief of security from any brig-bound threats and hypothermic events.
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coathosarmored.rsi
@@ -391,7 +391,7 @@
 - type: entity
   parent: [ClothingOuterWinterCoatToggleable, BaseSecurityCommandContraband]
   id: ClothingOuterWinterHoSUnarmored
-  name: head of security's winter coat
+  name: chief of security's winter coat
   description: A sturdy coat, a warm coat, but not an armored coat.
   components:
   - type: Sprite

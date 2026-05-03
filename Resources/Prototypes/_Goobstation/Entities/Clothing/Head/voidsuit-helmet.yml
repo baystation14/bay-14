@@ -211,11 +211,11 @@
   - type: FlashImmunity
   - type: FlashSoundSuppression
 
-# Head of Security
+# Chief of Security
 - type: entity
   parent: ClothingHeadHardsuitWithLightBase
   id: ClothingHeadHelmetHardsuitHeadOfSecurityExperimental
-  name: head of security's advanced hardsuit helmet
+  name: chief of security's advanced hardsuit helmet
   description: Security hardsuit helmet with the latest top secret NT-HUD software. This one seems more durable than stand issue helmets.
   components:
   - type: Sprite
@@ -351,7 +351,7 @@
     - HeadTop
     - HeadSide
     - FacialHair
-  
+
 # Detective's Hardsuit
 
 - type: entity

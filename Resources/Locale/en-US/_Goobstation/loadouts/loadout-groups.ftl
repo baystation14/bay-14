@@ -199,11 +199,11 @@ loadout-group-chemist-envirohelm = Chemist envirohelm
 loadout-group-chemist-envirosuit = Chemist envirosuit
 loadout-group-chemist-envirogloves = Chemist envirogloves
 
-# Head of Security
-loadout-group-head-of-security-envirohelm = Head of Security envirohelm
-loadout-group-head-of-security-envirosuit = Head of Security envirosuit
-loadout-group-head-of-security-envirogloves = Head of Security envirogloves
-loadout-group-head-of-security-gloves = Head of Security gloves
+# Chief of Security
+loadout-group-head-of-security-envirohelm = Chief of Security envirohelm
+loadout-group-head-of-security-envirosuit = Chief of Security envirosuit
+loadout-group-head-of-security-envirogloves = Chief of Security envirogloves
+loadout-group-head-of-security-gloves = Chief of Security gloves
 
 # Brigmedic
 loadout-group-brigmedic-envirohelm = Brigmedic envirohelm

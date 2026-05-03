@@ -107,7 +107,7 @@
 - type: entity
   id: ClothingBeltSheathHeadOfSecurityFilled
   parent: ClothingBeltSheathHeadOfSecurity
-  suffix: Filled, Head Of Security
+  suffix: Filled, Chief Of Security
   components:
   - type: ContainerFill
     containers:

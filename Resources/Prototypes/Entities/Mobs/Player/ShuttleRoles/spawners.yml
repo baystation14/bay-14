@@ -86,7 +86,7 @@
     - RandomHumanoidVisitorHOP
 
 - type: entity
-  name: visiting head of security spawner
+  name: visiting chief of security spawner
   id: VisitorHOSSpawner
   parent: MarkerBase
   components:

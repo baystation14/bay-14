@@ -73,13 +73,13 @@ guide-entry-sop-shaft-miner = Shaft Miner
 # - Command
 guide-entry-sop-ntr = Nanotrasen Rep.
 guide-entry-sop-bso = Blueshield Officer
-guide-entry-sop-captain = Captain
-guide-entry-sop-hop = Head of Personnel
-guide-entry-sop-hos = Head of Security
-guide-entry-sop-rd = Research Director
-guide-entry-sop-cmo = Chief Medical Ofc.
+guide-entry-sop-captain = Commanding Officer
+guide-entry-sop-hop = Executive Officer
+guide-entry-sop-hos = Chief of Security
+guide-entry-sop-rd = Chief Research Officer
+guide-entry-sop-cmo = Chief Medical Officer
 guide-entry-sop-ce = Chief Engineer
-guide-entry-sop-qm = Quartermaster
+guide-entry-sop-qm = Deck Chief
 # - Engineering
 guide-entry-sop-atmostech = Atmos Tech
 guide-entry-sop-stationengineer = Station Engineer

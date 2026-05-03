@@ -506,7 +506,7 @@
   parent: ClothingHeadHatHoodWinterBase
   id: ClothingHeadHatHoodWinterHOP
   categories: [ HideSpawnMenu ]
-  name: head of personnel's winter coat hood
+  name: executive officer's winter coat hood
   components:
   - type: Sprite
     sprite: Clothing/Head/Hoods/Coat/hoodhop.rsi
@@ -517,7 +517,7 @@
   parent: ClothingHeadHatHoodWinterBase
   id: ClothingHeadHatHoodWinterHOS
   categories: [ HideSpawnMenu ]
-  name: head of security's winter coat hood
+  name: chief of security's winter coat hood
   components:
   - type: Sprite
     sprite: Clothing/Head/Hoods/Coat/hoodhos.rsi

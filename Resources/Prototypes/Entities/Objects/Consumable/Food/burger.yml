@@ -515,7 +515,7 @@
   name: corger #not curger
   parent: FoodBurgerBase
   id: FoodBurgerCorgi
-  description: The Head of Personnel's favorite!
+  description: The Officer's favorite!
   components:
   - type: FlavorProfile
     flavors:

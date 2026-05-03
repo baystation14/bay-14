@@ -802,11 +802,11 @@
   - type: StaminaResistance # Goobstation
     damageCoefficient: 0.65
 
-#Head of Security's Hardsuit, heavily edited by goob
+#Chief of Security's Hardsuit, heavily edited by goob
 - type: entity
   parent: [ClothingOuterHardsuitBase, BaseCommandContraband]
   id: ClothingOuterHardsuitSecurityRed
-  name: head of security's hardsuit
+  name: chief of security's hardsuit
   description: Lighter and more protective than the standard security hardsuit, but not by much.
   components:
   - type: Sprite

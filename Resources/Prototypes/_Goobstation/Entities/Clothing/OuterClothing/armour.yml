@@ -113,7 +113,7 @@
 - type: entity
   parent: [ClothingOuterArmorHoS, ClothingOuterStorageBase, BaseSecurityCommandContraband]
   id: ClothingOuterArmorHoSVestWeb
-  name: head of security's web vest
+  name: chief of security's web vest
   description: A high-quality armored vest made from a hard synthetic material. It is surprisingly flexible and light, despite formidable armor plating.
   components:
   - type: Sprite

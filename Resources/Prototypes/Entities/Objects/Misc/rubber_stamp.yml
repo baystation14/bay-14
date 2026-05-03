@@ -240,7 +240,7 @@
     state: stamp-cmo
 
 - type: entity
-  name: head of personnel's rubber stamp
+  name: executive officer's rubber stamp
   parent: [RubberStampBase, BaseCommandContraband]
   id: RubberStampHop
   categories: [ DoNotMap ]
@@ -254,7 +254,7 @@
     state: stamp-hop
 
 - type: entity
-  name: head of security's rubber stamp
+  name: chief of security's rubber stamp
   parent: [RubberStampBase, BaseCommandContraband]
   id: RubberStampHos
   categories: [ DoNotMap ]

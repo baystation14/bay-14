@@ -59,7 +59,7 @@
   parent: [ClothingUniformJumpsuitResonant, BaseMajorContraband]
   id: ClothingUniformJumpsuitWestern
   name: authentic cowboy's jumpsuit
-  description: Let's show the head of security how we used to do things out west.
+  description: Let's show the chief of security how we used to do things out west.
   components:
   - type: Armor
     coverage:
@@ -327,8 +327,8 @@
 - type: entity
   parent: [ClothingUniformBase, BaseCommandContraband]
   id: ClothingUniformJumpsuitHoSSummer
-  name: head of security's summer shirt
-  description: The head of security's custom-commissioned summer outfit, for when chasing tiders gets hot.
+  name: chief of security's summer shirt
+  description: The chief of security's custom-commissioned summer outfit, for when chasing tiders gets hot.
   components:
   - type: Sprite
     sprite: _Goobstation/Clothing/Uniforms/Jumpsuit/Casual/casualshirt_hos.rsi
@@ -371,8 +371,8 @@
 - type: entity
   parent: [ClothingUniformBase, BaseCommandContraband]
   id: ClothingUniformJumpsuitHoPSummer
-  name: head of personnel's summer shirt
-  description: The head of personnel's custom-commissioned summer outfit, for when you want to comfortably do paperwork.
+  name: executive officer's summer shirt
+  description: The executive officer's custom-commissioned summer outfit, for when you want to comfortably do paperwork.
   components:
   - type: Sprite
     sprite: _Goobstation/Clothing/Uniforms/Jumpsuit/Casual/casualshirt_hop.rsi

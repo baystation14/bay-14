@@ -23,7 +23,7 @@
 
 - type: entity
   abstract: true
-  parent: [ClothingHeadBase] 
+  parent: [ClothingHeadBase]
   id: ClothingHeadHatArmored
   components:
   - type: Armor
@@ -245,8 +245,8 @@
 - type: entity
   parent: ClothingHeadHatBeretHoS
   id: ClothingHeadHatBeretHeadOfSecurityAdvanced
-  name: head of security's parade beret
-  description: A particularly gilded beret, designed for the Head of Security.
+  name: chief of security's parade beret
+  description: A particularly gilded beret, designed for the Chief of Security.
   components:
   - type: Sprite
     sprite: _Goobstation/Clothing/Head/Hats/hos-expi.rsi
@@ -348,7 +348,7 @@
   id: ClothingHeadHatOuterCommandcap
   name: outer command cap
   description: Purple gilded cap with Terra-Gov insignia.
-  components: 
+  components:
   - type: Sprite
     sprite: _Goobstation/Clothing/Head/Hats/outcommcap.rsi
   - type: Clothing

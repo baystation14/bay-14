@@ -519,7 +519,7 @@
   content:
   - ClothingModsuitSecurityPowerCell
 
-# head of security
+# chief of security
 - type: selectableSet
   id: VoidsuitSelectorHeadOfSecurityVoidsuit
   name: selectable-set-headofsecurity-voidsuit-name
@@ -562,7 +562,7 @@
   content:
   - ClothingModsuitEngineerPowerCell
 
-# Head Of Security
+# Chief of Security
 
 - type: selectableSet
   id: HosSmgSet

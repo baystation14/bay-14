@@ -34,10 +34,10 @@
     - VoidsuitSelectorSecurityVoidsuit
     - VoidsuitSelectorSecurityHardsuit
 
-# head of security
+# chief of security
 - type: entity
   id: UndeterminedVoidsuitHeadOfSecurity
-  name: head of security hardsuit selector
+  name: chief of security hardsuit selector
   description: A small remote utilizing bluespace technology to drop in a hardsuit or modsuit of your choosing.
   parent: [ BaseItem, BaseSetSelector, BaseSecurityContraband ]
   components:
