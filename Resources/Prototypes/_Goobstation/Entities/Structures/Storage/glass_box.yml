@@ -24,7 +24,7 @@
       shader: unshaded
       map: [ "enum.LockVisualLayers.Lock" ]
   - type: AccessReader
-    access: [["HeadOfSecurity"]]
+    access: [["ChiefOfSecurity"]]
   - type: Construction
     graph: GlassBox
     node: glassBox

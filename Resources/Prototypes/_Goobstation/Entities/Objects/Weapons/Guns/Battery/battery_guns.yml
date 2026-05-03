@@ -463,7 +463,7 @@
     listenRange: 1
     holderOnly: true
   - type: AccessReader
-    access: [['HeadOfSecurity']]
+    access: [['ChiefOfSecurity']]
   - type: ActiveListener
   - type: ExplodeOnTrigger
   - type: DropOnTrigger

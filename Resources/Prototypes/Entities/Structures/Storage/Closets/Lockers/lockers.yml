@@ -391,7 +391,7 @@
     stateDoorOpen: hos_open
     stateDoorClosed: hos_door
   - type: AccessReader
-    access: [["HeadOfSecurity"]]
+    access: [["ChiefOfSecurity"]]
 
 # Warden
 - type: entity

@@ -356,7 +356,7 @@
   suffix: HeadOfSecurity
   components:
   - type: AccessReader
-    access: [["HeadOfSecurity"]]
+    access: [["ChiefOfSecurity"]]
 
 - type: entity
   parent: LockableButton

@@ -252,14 +252,14 @@
 - type: entity
   id: SuitStorageHOS
   parent: SuitStorageBase
-  suffix: Head of Security
+  suffix: Chief of Security
   components:
   - type: EntityTableContainerFill
     containers:
       entity_storage: !type:NestedSelector
         tableId: FillHeadOfSecurityHardsuit
   - type: AccessReader
-    access: [["HeadOfSecurity"]]
+    access: [["ChiefOfSecurity"]]
 
 #Warden's hardsuit
 - type: entity

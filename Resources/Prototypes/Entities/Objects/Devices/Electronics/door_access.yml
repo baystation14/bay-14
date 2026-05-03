@@ -214,7 +214,7 @@
   suffix: HeadOfSecurity, Locked
   components:
   - type: AccessReader
-    access: [["HeadOfSecurity"]]
+    access: [["ChiefOfSecurity"]]
 
 - type: entity
   parent: DoorElectronics

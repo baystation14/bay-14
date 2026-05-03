@@ -1254,7 +1254,7 @@
   - type: CargoOrderConsole
     account: Security
     announcementChannel: Security
-    removeLimitAccess: [ "HeadOfSecurity" ]
+    removeLimitAccess: [ "ChiefOfSecurity" ]
     mode: SendToPrimary
   - type: ActiveRadio
     channels:

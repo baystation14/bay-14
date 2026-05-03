@@ -16,11 +16,11 @@
   id: AllAccess
   tags:
   - EmergencyShuttleRepealAll
-  - Captain
-  - HeadOfPersonnel
+  - CommandingOfficer
+  - ExecutiveOfficer
   - ChiefEngineer
   - ChiefMedicalOfficer
-  - HeadOfSecurity
+  - ChiefOfSecurity
   - ResearchDirector
   - Command
   - Cryogenics

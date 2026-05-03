@@ -14,7 +14,7 @@
 # SPDX-License-Identifier: MIT
 
 - type: accessLevel
-  id: HeadOfSecurity
+  id: ChiefOfSecurity
   name: id-card-access-level-head-of-security
 
 - type: accessLevel
@@ -44,7 +44,7 @@
 - type: accessGroup
   id: Security
   tags:
-  - HeadOfSecurity
+  - ChiefOfSecurity
   - Security
   - Armory
   - Brig

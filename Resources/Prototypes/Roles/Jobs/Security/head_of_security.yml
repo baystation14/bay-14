@@ -175,7 +175,7 @@
   - AlertLevels
   goobcoins: 45 #Goob content
   access:
-  - HeadOfSecurity
+  - ChiefOfSecurity
   - Command
   - Brig
   - Security

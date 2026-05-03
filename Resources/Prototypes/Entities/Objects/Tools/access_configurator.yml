@@ -69,7 +69,7 @@
       - Engineering
       - External
       - HeadOfPersonnel
-      - HeadOfSecurity
+      - ChiefOfSecurity
       - Hydroponics
       - Janitor
       - Kitchen
@@ -134,7 +134,7 @@
     - Borg
     - Brig
     - Detective
-    - Captain
+    - CommandingOfficer
     - Cargo
     - Chapel
     - Chemistry
@@ -145,8 +145,8 @@
     - EmergencyShuttleRepealAll
     - Engineering
     - External
-    - HeadOfPersonnel
-    - HeadOfSecurity
+    - ExecutiveOfficer
+    - ChiefOfSecurity
     - Hydroponics
     - Janitor
     - Kitchen
