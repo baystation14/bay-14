@@ -1,0 +1,28 @@
+# SPDX-FileCopyrightText: 2026 Iced-Coded <volkogon212@gmail.com>
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+- type: job
+  id: SolGovRepresentative
+  name: job-name-solgovrep
+  description: job-description-solgovrep
+  playTimeTracker: JobSolGovRep
+  setPreference: false
+  startingGear: CentcomGear
+  icon: "JobIconNanotrasen"
+  supervisors: job-supervisors-solgov
+  canBeAntag: false
+  requirements:
+  - !type:AgeRequirement
+    requiredAge: 18
+  - !type:SpeciesRequirement # Bay14 - Vox ain't members of crew
+    inverted: true
+    species:
+    - Vox
+  accessGroups:
+  - AllAccess
+  access:
+  - CentralCommand
+  special:
+  - !type:AddImplantSpecial
+    implants: [ MindShieldImplant, FreedomImplant, BluespaceLifelineImplant, RadioImplantCentcomm, NutrimentPumpImplant, StypticStimulatorImplant, DeathRattleImplantCentcomm ]
