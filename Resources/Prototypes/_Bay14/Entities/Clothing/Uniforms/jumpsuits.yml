@@ -1,0 +1,39 @@
+# SPDX-FileCopyrightText: 2026 Iced-Coded <volkogon212@gmail.com>
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformNavyCombat
+  name: navy combat uniform
+  description: Well, a combat uniform?
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Uniforms/Jumpsuit/navycombat.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Uniforms/Jumpsuit/navycombat.rsi
+    equippedState: navycombat
+    femaleMask: Female
+  # Bay14 - keep the sensors on by default
+  - type: SuitSensor
+    controlsLocked: false
+    randomMode: false
+    mode: SensorCords
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformNavyUtility
+  name: navy utility uniform
+  description: Uniform for sitting on a cozy ship
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Uniforms/Jumpsuit/navyutility.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Uniforms/Jumpsuit/navyutility.rsi
+    equippedState: navyutility
+    femaleMask: Female
+  # Bay14 - keep the sensors on by default
+  - type: SuitSensor
+    controlsLocked: false
+    randomMode: false
+    mode: SensorCords

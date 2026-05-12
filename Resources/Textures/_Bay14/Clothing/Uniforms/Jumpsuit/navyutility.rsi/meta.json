@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Contributors of Baystation12",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "icon"
+    },
+    {
+      "name": "navyutility",
+      "directions": 4
+    },
+    {
+      "name": "navyutility_f",
+      "directions": 4
+    }
+  ]
+}
