@@ -15,3 +15,115 @@
   - type: Fiber
     fiberMaterial: fibers-classified
     fiberColor: fibers-pitch-black
+
+- type: entity
+  parent: ClothingHandsBase
+  id: ClothingHandDutyGlovesEngineering
+  name: engineer duty gloves
+  description: Standard-issue gloves for the brave engineers of SolGov Fleet.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Hands/Gloves/engduty.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Hands/Gloves/engduty.rsi
+  - type: Fiber
+    fiberMaterial: fibers-classified
+    fiberColor: fibers-pitch-black
+
+- type: entity
+  parent: ClothingHandsBase
+  id: ClothingHandDutyGlovesScience
+  name: science duty gloves
+  description: Standard-issue gloves for the brave scientists of SolGov Fleet.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Hands/Gloves/sciduty.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Hands/Gloves/sciduty.rsi
+  - type: Fiber
+    fiberMaterial: fibers-classified
+    fiberColor: fibers-pitch-black
+
+- type: entity
+  parent: ClothingHandsBase
+  id: ClothingHandDutyGlovesSecurity
+  name: security duty gloves
+  description: Standard-issue gloves for the security personnel of SolGov Fleet.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Hands/Gloves/secduty.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Hands/Gloves/secduty.rsi
+  - type: Fiber
+    fiberMaterial: fibers-classified
+    fiberColor: fibers-pitch-black
+
+- type: entity
+  parent: ClothingHandsBase
+  id: ClothingHandDutyGlovesExpedition
+  name: expedition duty gloves
+  description: Standard-issue gloves for the brave expeditioneers of SolGov Fleet.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Hands/Gloves/expduty.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Hands/Gloves/expduty.rsi
+  - type: Fiber
+    fiberMaterial: fibers-classified
+    fiberColor: fibers-pitch-black
+
+- type: entity
+  parent: ClothingHandsBase
+  id: ClothingHandDutyGlovesMedical
+  name: doctor duty gloves
+  description: Standard-issue gloves for the brave doctors of SolGov Fleet.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Hands/Gloves/medduty.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Hands/Gloves/medduty.rsi
+  - type: Fiber
+    fiberMaterial: fibers-classified
+    fiberColor: fibers-pitch-black
+
+- type: entity
+  parent: ClothingHandsBase
+  id: ClothingHandDutyGlovesService
+  name: service duty gloves
+  description: Standard-issue gloves for the service workers of SolGov Fleet.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Hands/Gloves/serduty.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Hands/Gloves/serduty.rsi
+  - type: Fiber
+    fiberMaterial: fibers-classified
+    fiberColor: fibers-pitch-black
+
+- type: entity
+  parent: ClothingHandsBase
+  id: ClothingHandDutyGlovesSupply
+  name: supply duty gloves
+  description: Standard-issue gloves for the supply workers of SolGov Fleet.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Hands/Gloves/supduty.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Hands/Gloves/supduty.rsi
+  - type: Fiber
+    fiberMaterial: fibers-classified
+    fiberColor: fibers-pitch-black
+
+- type: entity
+  parent: ClothingHandsBase
+  id: ClothingHandDutyGlovesSupply
+  name: command duty gloves
+  description: Standard-issue gloves for the ship commanders of SolGov Fleet.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Hands/Gloves/cmdduty.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Hands/Gloves/cmdduty.rsi
+  - type: Fiber
+    fiberMaterial: fibers-classified
+    fiberColor: fibers-pitch-black
