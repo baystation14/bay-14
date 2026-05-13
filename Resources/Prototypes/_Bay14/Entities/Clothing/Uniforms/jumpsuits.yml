@@ -37,3 +37,57 @@
     controlsLocked: false
     randomMode: false
     mode: SensorCords
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformWhiteService
+  name: white service uniform
+  description: Who even thought that making white shirt a part of service uniform is good?
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Uniforms/Jumpsuit/whiteservice.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Uniforms/Jumpsuit/whiteservice.rsi
+    equippedState: whiteservice
+    femaleMask: Female
+  # Bay14 - keep the sensors on by default
+  - type: SuitSensor
+    controlsLocked: false
+    randomMode: false
+    mode: SensorCords
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformFleetPhysical
+  name: fleet physical training uniform
+  description: Smells of sweat and tears.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Uniforms/Jumpsuit/fleetpt.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Uniforms/Jumpsuit/fleetpt.rsi
+    equippedState: fleetpt
+    femaleMask: Female
+  # Bay14 - keep the sensors on by default
+  - type: SuitSensor
+    controlsLocked: false
+    randomMode: false
+    mode: SensorCords
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformExCorpsPhysical
+  name: expedition corps physical training uniform
+  description: Smells of sweat and tears.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Uniforms/Jumpsuit/expeditionpt.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Uniforms/Jumpsuit/expeditionpt.rsi
+    equippedState: expeditionpt
+    femaleMask: Female
+  # Bay14 - keep the sensors on by default
+  - type: SuitSensor
+    controlsLocked: false
+    randomMode: false
+    mode: SensorCords
