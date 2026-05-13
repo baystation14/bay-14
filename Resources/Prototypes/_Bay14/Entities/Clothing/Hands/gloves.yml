@@ -116,7 +116,7 @@
 
 - type: entity
   parent: ClothingHandsBase
-  id: ClothingHandDutyGlovesSupply
+  id: ClothingHandDutyGlovesCommand
   name: command duty gloves
   description: Standard-issue gloves for the ship commanders of SolGov Fleet.
   components:
