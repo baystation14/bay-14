@@ -209,7 +209,7 @@
 
 - type: entity
   parent: ClothingOuterHardsuitBase
-  id: ClothingOuterHardsuitMedical
+  id: ClothingOuterHardsuitMedicalAlt
   name: medical hardsuit
   description: Standard-issue hardsuit for the doctors.
   components:
@@ -241,7 +241,7 @@
   - type: HeldSpeedModifier
   - type: ToggleableClothing
     clothingPrototypes:
-      head: ClothingHeadHelmetHardsuitMedical
+      head: ClothingHeadHelmetHardsuitMedicalAlt
   - type: ModifyDelayedKnockdown
     delayDelta: 1
     knockdownTimeDelta: -0.5
