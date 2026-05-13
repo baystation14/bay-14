@@ -91,3 +91,58 @@
     controlsLocked: false
     randomMode: false
     mode: SensorCords
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformBlackUtility
+  name: black utility uniform
+  description: Gotta have some swag even in far space.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Uniforms/Jumpsuit/blackutility.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Uniforms/Jumpsuit/blackutility.rsi
+    equippedState: blackutility
+    femaleMask: Female
+  # Bay14 - keep the sensors on by default
+  - type: SuitSensor
+    controlsLocked: false
+    randomMode: false
+    mode: SensorCords
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformBlackUtilityCrew
+  name: black utility crew uniform
+  description: Gotta have some swag even in far space.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Uniforms/Jumpsuit/blackutility_crew.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Uniforms/Jumpsuit/blackutility_crew.rsi
+    equippedState: blackutility_crew
+    femaleMask: Female
+  # Bay14 - keep the sensors on by default
+  - type: SuitSensor
+    controlsLocked: false
+    randomMode: false
+    mode: SensorCords
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformBlackUtilityCommand
+  name: black utility command uniform
+  description: Gotta have some swag even in far space.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Uniforms/Jumpsuit/blackutility_command.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Uniforms/Jumpsuit/blackutility_command.rsi
+    equippedState: blackutility_com
+    femaleMask: Female
+  # Bay14 - keep the sensors on by default
+  - type: SuitSensor
+    controlsLocked: false
+    randomMode: false
+    mode: SensorCords
+
