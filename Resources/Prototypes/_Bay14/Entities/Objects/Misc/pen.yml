@@ -1,0 +1,29 @@
+# SPDX-FileCopyrightText: 2026 Iced-Coded <volkogon212@gmail.com>
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+- type: entity
+  name: commanding officer's pen
+  parent: Pen
+  id: COPen
+  description: A fancy and expensive pen that only commanding officers deserve to have.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Objects/Misc/pens.rsi
+    state: pen_co
+  - type: Item
+    sprite: _Bay14/Objects/Misc/pens.rsi
+    state: pen_co
+
+- type: entity
+  name: executive officer's pen
+  parent: Pen
+  id: EOPen
+  description: Less fancy and expensive than commanding officer's pen, yet still quite good at paperwork.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Objects/Misc/pens.rsi
+    state: pen_xo
+  - type: Item
+    sprite: _Bay14/Objects/Misc/pens.rsi
+    state: pen_xo
