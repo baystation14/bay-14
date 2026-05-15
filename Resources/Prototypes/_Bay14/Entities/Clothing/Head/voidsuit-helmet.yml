@@ -5,7 +5,8 @@
 - type: entity
   parent: ClothingHeadHardsuitWithLightBase
   id: ClothingHeadHelmetHardsuitExplorer
-  name: explorer hardsuit helmet
+  name: exploration voidsuit helmet
+  description: A helmet of Exoplanet Exploration Unit, standard issue for Expeditionary Corps away missions. It has an armored glass dome for superiour visibility and extra anti-radiation lining.
   components:
   - type: BreathMask
   - type: Sprite
@@ -35,7 +36,7 @@
 - type: entity
   parent: ClothingHeadHardsuitBase
   id: ClothingHeadHelmetHardsuitPilot
-  name: pilot hardsuit helmet
+  name: pilot voidsuit helmet
   components:
   - type: BreathMask
   - type: Sprite
@@ -60,7 +61,7 @@
 - type: entity
   parent: ClothingHeadHardsuitBase
   id: ClothingHeadHelmetHardsuitEngineer
-  name: engineering hardsuit helmet
+  name: engineering voidsuit helmet
   components:
   - type: BreathMask
   - type: Sprite
@@ -85,7 +86,7 @@
 - type: entity
   parent: ClothingHeadHardsuitBase
   id: ClothingHeadHelmetHardsuitAtmosAlt
-  name: atmos hardsuit helmet
+  name: atmos voidsuit helmet
   components:
   - type: BreathMask
   - type: Sprite
@@ -110,7 +111,7 @@
 - type: entity
   parent: ClothingHeadHardsuitBase
   id: ClothingHeadHelmetHardsuitMedicalAlt
-  name: medical hardsuit helmet
+  name: medical voidsuit helmet
   components:
   - type: BreathMask
   - type: Sprite
@@ -129,13 +130,13 @@
         Slash: 0.9
         Piercing: 0.9
         Heat: 0.8
-        Radiation: 0.7
+        Radiation: 0.3
         Caustic: 0.8
 
 - type: entity
   parent: ClothingHeadHardsuitBase
   id: ClothingHeadHelmetHardsuitHazard
-  name: hazard hardsuit helmet
+  name: hazard voidsuit helmet
   components:
   - type: BreathMask
   - type: Sprite
@@ -160,7 +161,8 @@
 - type: entity
   parent: ClothingHeadHardsuitBase
   id: ClothingHeadHelmetHardsuitCommand
-  name: command hardsuit helmet
+  name: command voidsuit helmet
+  description: A light, radiation resistant voidsuit helmet commonly used among SCG uniformed services.
   components:
   - type: BreathMask
   - type: Sprite
@@ -179,5 +181,5 @@
         Slash: 0.85
         Piercing: 0.85
         Heat: 0.8
-        Radiation: 0.8
+        Radiation: 0.5
         Caustic: 0.8

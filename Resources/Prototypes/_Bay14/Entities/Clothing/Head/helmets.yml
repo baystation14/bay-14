@@ -6,7 +6,7 @@
   parent: [ClothingHeadHelmetBase]
   id: ClothingHeadHelmetSecurity
   name: security helmet
-  description: While securing the ship, you need to secure your brain too.
+  description: A helmet with 'POLICE' printed on the back in silver lettering.
   components:
   - type: Armor
     coverage:

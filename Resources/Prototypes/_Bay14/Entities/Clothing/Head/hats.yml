@@ -5,8 +5,8 @@
 - type: entity
   parent: ClothingHeadBase
   id: ClothingHeadHatUtility
-  name: navy utility hat
-  description: Standard-issue hat for everyone aboard SCG.
+  name: fleet cap
+  description: It's a navy blue field cap with the SCG Fleet crest in a silver colour.
   components:
   - type: Sprite
     sprite: _Bay14/Clothing/Head/Hats/utility.rsi

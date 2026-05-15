@@ -5,8 +5,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: WhiteServiceSkirt
-  name: white service skirt
-  description: This is a pain to clean.
+  name: fleet service skirt
+  description: The service uniform skirt of the SCG Fleet, made from immaculate white fabric.
   components:
   - type: Sprite
     sprite: _Bay14/Clothing/Uniforms/Jumpskirt/whiteservice.rsi

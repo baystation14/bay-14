@@ -5,7 +5,7 @@
 - type: entity
   parent: ClothingOuterHardsuitBase
   id: ClothingOuterHardsuitExplorer
-  name: explorer hardsuit
+  name: exploration voidsuit
   description: Standard-issue hardsuit for explorers.
   components:
   - type: Sprite
@@ -46,7 +46,7 @@
 - type: entity
   parent: ClothingOuterHardsuitBase
   id: ClothingOuterHardsuitPilot
-  name: pilot hardsuit
+  name: pilot voidsuit
   description: Standard-issue hardsuit for the pilots.
   components:
   - type: Sprite
@@ -87,7 +87,7 @@
 - type: entity
   parent: ClothingOuterHardsuitBase
   id: ClothingOuterHardsuitEngineerAlt
-  name: engineering hardsuit
+  name: engineering voidsuit
   description: Standard-issue hardsuit for the engineers.
   components:
   - type: Sprite
@@ -128,7 +128,7 @@
 - type: entity
   parent: ClothingOuterHardsuitBase
   id: ClothingOuterHardsuitHazard
-  name: hazard hardsuit
+  name: hazard voidsuit
   description: Standard-issue hardsuit for use in heavily hazardous environment.
   components:
   - type: Sprite
@@ -169,7 +169,7 @@
 - type: entity
   parent: ClothingOuterHardsuitBase
   id: ClothingOuterHardsuitAtmosAlt
-  name: atmos hardsuit
+  name: atmos voidsuit
   description: Standard-issue hardsuit for the atmos engineers.
   components:
   - type: Sprite
@@ -210,7 +210,7 @@
 - type: entity
   parent: ClothingOuterHardsuitBase
   id: ClothingOuterHardsuitMedicalAlt
-  name: medical hardsuit
+  name: medical voidsuit
   description: Standard-issue hardsuit for the doctors.
   components:
   - type: Sprite
@@ -251,7 +251,7 @@
 - type: entity
   parent: ClothingOuterHardsuitBase
   id: ClothingOuterHardsuitCommand
-  name: command hardsuit
+  name: command voidsuit
   description: Standard-issue hardsuit for the commanders.
   components:
   - type: Sprite

@@ -5,8 +5,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformNavyCombat
-  name: navy combat uniform
-  description: Well, a combat uniform?
+  name: fleet fatigues
+  description: Alternative utility uniform of the SCG Fleet, for when coveralls are impractical.
   components:
   - type: Sprite
     sprite: _Bay14/Clothing/Uniforms/Jumpsuit/navycombat.rsi
@@ -23,8 +23,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformNavyUtility
-  name: navy utility uniform
-  description: Uniform for sitting on a cozy ship
+  name: fleet coveralls
+  description: The utility uniform of the SCG Fleet, made from an insulated material.
   components:
   - type: Sprite
     sprite: _Bay14/Clothing/Uniforms/Jumpsuit/navyutility.rsi
@@ -41,8 +41,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformWhiteService
-  name: white service uniform
-  description: Who even thought that making white shirt a part of service uniform is good?
+  name: fleet service uniform
+  description: The service uniform of the SCG Fleet, made from immaculate white fabric.
   components:
   - type: Sprite
     sprite: _Bay14/Clothing/Uniforms/Jumpsuit/whiteservice.rsi
@@ -59,8 +59,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformFleetPhysical
-  name: fleet physical training uniform
-  description: Smells of sweat and tears.
+  name: fleet pt uniform
+  description: A tight-fitting navy blue shirt paired with black shorts. For when you need to 'get physical'.
   components:
   - type: Sprite
     sprite: _Bay14/Clothing/Uniforms/Jumpsuit/fleetpt.rsi
@@ -77,8 +77,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformExCorpsPhysical
-  name: expedition corps physical training uniform
-  description: Smells of sweat and tears.
+  name: expeditionary pt uniform
+  description: A baggy shirt bearing the seal of the SCG Expeditionary Corps and some dorky looking blue shorts.
   components:
   - type: Sprite
     sprite: _Bay14/Clothing/Uniforms/Jumpsuit/expeditionpt.rsi

@@ -5,8 +5,8 @@
 - type: entity
   parent: ClothingHandsBase
   id: ClothingHandGlovesFleet
-  name: fleet gloves
-  description: Standard-issue gloves for the military personnel of fleet.
+  name: fleet duty gloves
+  description: These black duty gloves are made from durable synthetic materials. Standard issue to all ranks in the SCG Fleet.
   components:
   - type: Sprite
     sprite: _Bay14/Clothing/Hands/Gloves/fleetgloves.rsi
@@ -18,9 +18,30 @@
 
 - type: entity
   parent: ClothingHandsBase
+  id: ClothingHandGlovesFleet
+  name: fleet combat gloves
+  description: These black duty gloves are made from durable synthetic materials. Standard issue to all ranks in the SCG Fleet.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Hands/Gloves/fleetgloves.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Hands/Gloves/fleetgloves.rsi
+  - type: Fiber
+    fiberMaterial: fibers-classified
+    fiberColor: fibers-pitch-black
+  - type: Armor
+    coverage:
+    - Hands
+    modifiers:
+      coefficients:
+        Blunt: 0.9
+        Slash: 0.875
+
+- type: entity
+  parent: ClothingHandsBase
   id: ClothingHandDutyGlovesEngineering
-  name: engineer duty gloves
-  description: Standard-issue gloves for the brave engineers of SolGov Fleet.
+  name: engineering duty gloves
+  description: These black duty gloves are made from durable synthetic materials, and have a lovely orange accent color.
   components:
   - type: Sprite
     sprite: _Bay14/Clothing/Hands/Gloves/engduty.rsi
@@ -34,7 +55,7 @@
   parent: ClothingHandsBase
   id: ClothingHandDutyGlovesScience
   name: science duty gloves
-  description: Standard-issue gloves for the brave scientists of SolGov Fleet.
+  description: These black duty gloves are made from durable synthetic materials, and have a lovely heather accent color.
   components:
   - type: Sprite
     sprite: _Bay14/Clothing/Hands/Gloves/sciduty.rsi
@@ -48,7 +69,7 @@
   parent: ClothingHandsBase
   id: ClothingHandDutyGlovesSecurity
   name: security duty gloves
-  description: Standard-issue gloves for the security personnel of SolGov Fleet.
+  description: These black duty gloves are made from durable synthetic materials, and have a lovely red accent color.
   components:
   - type: Sprite
     sprite: _Bay14/Clothing/Hands/Gloves/secduty.rsi
@@ -62,7 +83,7 @@
   parent: ClothingHandsBase
   id: ClothingHandDutyGlovesExpedition
   name: expedition duty gloves
-  description: Standard-issue gloves for the brave expeditioneers of SolGov Fleet.
+  description: These black duty gloves are made from durable synthetic materials, and have a lovely purple accent color.
   components:
   - type: Sprite
     sprite: _Bay14/Clothing/Hands/Gloves/expduty.rsi
@@ -76,7 +97,7 @@
   parent: ClothingHandsBase
   id: ClothingHandDutyGlovesMedical
   name: doctor duty gloves
-  description: Standard-issue gloves for the brave doctors of SolGov Fleet.
+  description: These black duty gloves are made from durable synthetic materials, and have a lovely blue accent color.
   components:
   - type: Sprite
     sprite: _Bay14/Clothing/Hands/Gloves/medduty.rsi
@@ -90,7 +111,7 @@
   parent: ClothingHandsBase
   id: ClothingHandDutyGlovesService
   name: service duty gloves
-  description: Standard-issue gloves for the service workers of SolGov Fleet.
+  description: These black duty gloves are made from durable synthetic materials, and have a lovely green accent color.
   components:
   - type: Sprite
     sprite: _Bay14/Clothing/Hands/Gloves/serduty.rsi
@@ -104,7 +125,7 @@
   parent: ClothingHandsBase
   id: ClothingHandDutyGlovesSupply
   name: supply duty gloves
-  description: Standard-issue gloves for the supply workers of SolGov Fleet.
+  description: These black duty gloves are made from durable synthetic materials, and have a lovely brown accent color.
   components:
   - type: Sprite
     sprite: _Bay14/Clothing/Hands/Gloves/supduty.rsi
@@ -118,7 +139,7 @@
   parent: ClothingHandsBase
   id: ClothingHandDutyGlovesCommand
   name: command duty gloves
-  description: Standard-issue gloves for the ship commanders of SolGov Fleet.
+  description: These black duty gloves are made from durable synthetic materials, and have a lovely gold accent color.
   components:
   - type: Sprite
     sprite: _Bay14/Clothing/Hands/Gloves/cmdduty.rsi

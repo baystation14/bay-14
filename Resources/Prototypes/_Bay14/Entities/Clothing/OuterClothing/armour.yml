@@ -5,8 +5,8 @@
 - type: entity
   parent: ClothingOuterArmorBase
   id: ClothingOuterArmorNavy
-  name: navy plate carrier
-  description: Barebones plate carrier, without any additional bags.
+  name: Sol Central Government armored vest
+  description: A synthetic armor vest. This one is marked with the crest of the Sol Central Government.
   components:
   - type: Sprite
     sprite: _Bay14/Clothing/OuterClothing/Armor/carrier.rsi
@@ -22,21 +22,29 @@
         Piercing: 0.9
 
 - type: entity
-  parent: [ClothingOuterArmorNavy, ClothingOuterStorageBase]
+  parent: [ClothingOuterArmorBase, ClothingOuterStorageBase]
   id: ClothingOuterArmorNavyVestWeb
-  name: navy web vest
-  description: A bit more advanced than plate carrier, just cause there's now some pockets, for god's sake!
+  name: Sol Central Government heavy armored vest
+  description: A synthetic armor vest with PEACEKEEPER printed in distinctive blue lettering on the chest. This one has added webbing and ballistic plates.
   components:
   - type: Sprite
     sprite: _Bay14/Clothing/OuterClothing/Armor/navyweb.rsi
   - type: Clothing
     sprite: _Bay14/Clothing/OuterClothing/Armor/navyweb.rsi
+  - type: Armor
+    coverage:
+    - Chest
+    modifiers:
+      coefficients:
+        Blunt: 0.75
+        Slash: 0.65
+        Piercing: 0.85
 
 - type: entity
   parent: ClothingOuterArmorNavyVestWeb
   id: ClothingOuterArmorSecVestWeb
-  name: security web vest
-  description: Perhaps I've seen this same design somewhere...
+  name: master at arms heavy armored vest
+  description: A synthetic armor vest with MASTER AT ARMS printed in silver lettering on the chest. This one has added webbing and ballistic plates.
   components:
   - type: Sprite
     sprite: _Bay14/Clothing/OuterClothing/Armor/secweb.rsi
