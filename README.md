@@ -18,7 +18,7 @@ SPDX-FileCopyrightText: 2024 Rares Popa <2606875+rarepops@users.noreply.github.c
 SPDX-FileCopyrightText: 2024 router <messagebus@vk.com>
 SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
 SPDX-FileCopyrightText: 2025 Piras314 <p1r4s@proton.me>
-SPDX-FileCopyrightText: 2026 Iced-Coded <volkogon212@gmail.com>
+SPDX-FileCopyrightText: 2026 Iced-Coded <alexivolkov@vivaldi.net>
 
 SPDX-License-Identifier: AGPL-3.0-or-later
 -->
