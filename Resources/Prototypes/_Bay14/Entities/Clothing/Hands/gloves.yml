@@ -18,7 +18,7 @@
 
 - type: entity
   parent: ClothingHandsBase
-  id: ClothingHandGlovesFleet
+  id: ClothingHandGlovesFleetCombat
   name: fleet combat gloves
   description: These black duty gloves are made from durable synthetic materials. Standard issue to all ranks in the SCG Fleet.
   components:
