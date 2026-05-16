@@ -16,3 +16,584 @@
     tags:
     - ClothMade
     - WhitelistChameleon
+
+# Start of berets
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBeretNavySupply
+  name: fleet supply beret
+  description: An SCG Fleet beret with a supply crest. For personnel that are more inclined towards style than safety.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Head/Hats/fleet_supply_beret.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Head/Hats/fleet_supply_beret.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - WhitelistChameleon
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBeretNavyService
+  name: fleet service beret
+  description: An SCG Fleet beret with a service crest. For personnel that are more inclined towards style than safety.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Head/Hats/fleet_service_beret.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Head/Hats/fleet_service_beret.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - WhitelistChameleon
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBeretNavySecurity
+  name: fleet security beret
+  description: An SCG Fleet beret with a security crest. For personnel that are more inclined towards style than safety.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Head/Hats/fleet_security_beret.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Head/Hats/fleet_security_beret.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - WhitelistChameleon
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBeretNavyMedical
+  name: fleet medical beret
+  description: An SCG Fleet beret with a medical crest. For personnel that are more inclined towards style than safety.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Head/Hats/fleet_medical_beret.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Head/Hats/fleet_medical_beret.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - WhitelistChameleon
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBeretNavyEngineering
+  name: fleet engineering beret
+  description: An SCG Fleet beret with an engineering crest. For personnel that are more inclined towards style than safety.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Head/Hats/fleet_engineering_beret.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Head/Hats/fleet_engineering_beret.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - WhitelistChameleon
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBeretNavyDress
+  name: fleet dress beret
+  description: A white SCG Fleet beret. For personnel that are more inclined towards style than safety.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Head/Hats/fleet_dress_beret.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Head/Hats/fleet_dress_beret.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - WhitelistChameleon
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBeretNavyDressCom
+  name: fleet officer's dress beret
+  description: A white SCG Fleet beret with a golden crest. For personnel that are more inclined towards style than safety.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Head/Hats/fleet_com_dress_beret.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Head/Hats/fleet_com_dress_beret.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - WhitelistChameleon
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBeretNavyCommand
+  name: fleet officer's beret
+  description: An SCG Fleet beret with a golden crest. For personnel that are more inclined towards style than safety.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Head/Hats/fleet_command_beret.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Head/Hats/fleet_command_beret.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - WhitelistChameleon
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBeretNavy
+  name: fleet beret
+  description: A navy blue beret belonging to the SCG Fleet. For personnel that are more inclined towards style than safety.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Head/Hats/fleet_beret.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Head/Hats/fleet_beret.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - WhitelistChameleon
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBeretNavyFirst
+  name: first fleet beret
+  description: An SCG Fleet beret carrying the insignia of the First Fleet, the Sol Guard, stationed in Sol. For personnel that are more inclined towards style than safety.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Head/Hats/fleet_beret_first.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Head/Hats/fleet_beret_first.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - WhitelistChameleon
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBeretNavySecond
+  name: second fleet beret
+  description: An SCG Fleet beret carrying the insignia of the Second Fleet, the Home Defense Group, tasked with defense of Sol territories. For personnel that are more inclined towards style than safety.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Head/Hats/fleet_beret_second.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Head/Hats/fleet_beret_second.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - WhitelistChameleon
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBeretNavyThird
+  name: third fleet beret
+  description: An SCG Fleet beret carrying the insignia of the Third Fleet, the Border Guard, guarding borders of Sol territory against Vox and pirates. For personnel that are more inclined towards style than safety.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Head/Hats/fleet_beret_third.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Head/Hats/fleet_beret_third.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - WhitelistChameleon
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBeretNavyFourth
+  name: fourth fleet beret
+  description: An SCG Fleet beret carrying the insignia of the Fourth Fleet, stationed on Skrell border. For personnel that are more inclined towards style than safety.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Head/Hats/fleet_beret_fourth.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Head/Hats/fleet_beret_fourth.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - WhitelistChameleon
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBeretNavyFifth
+  name: fifth fleet beret
+  description: An SCG Fleet beret carrying the insignia of the Fifth Fleet, the Quick Reaction Force, recently formed and outfitted with the latest tech. For personnel that are more inclined towards style than safety.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Head/Hats/fleet_beret_fifth.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Head/Hats/fleet_beret_fifth.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - WhitelistChameleon
+
+# Expeditionary berets
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBeretBlack
+  name: expeditionary beret
+  description: A black beret belonging to the SCG Expeditionary Corps. For personnel that are more inclined towards style than safety.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Head/Hats/ec_beret.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Head/Hats/ec_beret.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - WhitelistChameleon
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBeretBlack
+  name: expeditionary beret
+  description: A black beret belonging to the SCG Expeditionary Corps. For personnel that are more inclined towards style than safety.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Head/Hats/ec_beret.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Head/Hats/ec_beret.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - WhitelistChameleon
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBeretBlackSecurity
+  name: expeditionary security beret
+  description: An SCG Expeditionary Corps beret with a security crest. For personnel that are more inclined towards style than safety.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Head/Hats/ec_beret_security.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Head/Hats/ec_beret_security.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - WhitelistChameleon
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBeretBlackMedical
+  name: expeditionary medical beret
+  description: An SCG Expeditionary Corps beret with a medical crest. For personnel that are more inclined towards style than safety.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Head/Hats/ec_beret_med.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Head/Hats/ec_beret_med.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - WhitelistChameleon
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBeretBlackEngineering
+  name: expeditionary engineering beret
+  description: An SCG Expeditionary Corps beret with an engineering crest. For personnel that are more inclined towards style than safety.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Head/Hats/ec_beret_eng.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Head/Hats/ec_beret_eng.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - WhitelistChameleon
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBeretBlackSupply
+  name: expeditionary supply beret
+  description: An SCG Expeditionary Corps beret with a supply crest. For personnel that are more inclined towards style than safety.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Head/Hats/ec_beret_sup.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Head/Hats/ec_beret_sup.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - WhitelistChameleon
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBeretBlackService
+  name: expeditionary service beret
+  description: An SCG Expeditionary Corps beret with a service crest. For personnel that are more inclined towards style than safety.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Head/Hats/ec_beret_ser.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Head/Hats/ec_beret_ser.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - WhitelistChameleon
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBeretBlackExploration
+  name: expeditionary exploration beret
+  description: An SCG Expeditionary Corps beret with an exploration crest. For personnel that are more inclined towards style than safety.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Head/Hats/ec_beret_exp.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Head/Hats/ec_beret_exp.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - WhitelistChameleon
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBeretBlackCommand
+  name: expeditionary officer's beret
+  description: An SCG Expeditionary Corps beret with a golden crest. For personnel that are more inclined towards style than safety.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Head/Hats/ec_beret_cmd.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Head/Hats/ec_beret_cmd.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - WhitelistChameleon
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBeretBlackField
+  name: field operations beret
+  description: An SCG Expeditionary Corps beret carrying the insignia of the Field Operations section. For personnel that are more inclined towards style than safety.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Head/Hats/ec_beret_field.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Head/Hats/ec_beret_field.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - WhitelistChameleon
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBeretBlackObservatory
+  name: observatory beret
+  description: An SCG Expeditionary Corps beret carrying the insignia of the Observatory section. For personnel that are more inclined towards style than safety.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Head/Hats/ec_beret_obs.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Head/Hats/ec_beret_obs.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - WhitelistChameleon
+
+# Generic berets
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBeretHealthService
+  name: health service beret
+  description: A white beret denoting service in the Interstellar Health Service. For medics that are more inclined towards style than safety.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Head/Hats/beret_white.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Head/Hats/beret_white.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - WhitelistChameleon
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBeretMARCOM
+  name: MARCOM beret
+  description: A red beret with a gold insignia, denoting service in the SCGDF Mars Central Command. For brass who are more inclined towards style than safety.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Head/Hats/beret_marcom.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Head/Hats/beret_marcom.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - WhitelistChameleon
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBeretHomeGuard
+  name: home guard beret
+  description: A red beret denoting service in the Sol Home Guard. For personnel that are more inclined towards style than safety.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Head/Hats/beret_guard.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Head/Hats/beret_guard.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - WhitelistChameleon
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBeretCustoms
+  name: customs and trade beret
+  description: A purple beret denoting service in the Customs and Trade Bureau. For personnel that are more inclined towards style than safety.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Head/Hats/beret_customs.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Head/Hats/beret_customs.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - WhitelistChameleon
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBeretGatewayAdmin
+  name: gateway administration beret
+  description: An orange beret denoting service in the Gateway Administration. For personnel that are more inclined towards style than safety.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Head/Hats/beret_gate.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Head/Hats/beret_gate.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - WhitelistChameleon
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBeretPeacekeeper
+  name: peacekeeper beret
+  description: A beret in Sol Central Government colors. For peacekeepers that are more inclined towards style than safety.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Head/Hats/beret_peacekeeper.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Head/Hats/beret_peacekeeper.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - WhitelistChameleon
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBeretBorder
+  name: border security beret
+  description: A green beret with a silver emblem, denoting service in the Bureau of Border Security. For border guards who are more inclined towards style than safety.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Head/Hats/beret_border.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Head/Hats/beret_border.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - WhitelistChameleon
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBeretGovtResearch
+  name: government research beret
+  description: A green beret denoting service in the Bureau of Research. For scientists that are more inclined towards style than safety.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Head/Hats/beret_research.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Head/Hats/beret_research.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - WhitelistChameleon
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBeretSTRATCOM
+  name: STRATCOM beret
+  description: A grey beret with a silver insignia, denoting service in the SCGDF Strategic Command. For intelligence personnel who are more inclined towards style than safety.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Head/Hats/beret_stratcom.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Head/Hats/beret_stratcom.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - WhitelistChameleon
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatBeretOrbitalAssault
+  name: orbital assault beret
+  description: A blue beret denoting orbital assault training. For helljumpers that are more inclined towards style than safety.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/Head/Hats/beret_orbital.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/Head/Hats/beret_orbital.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - WhitelistChameleon
+
+# End of berets
+
+# Ushankas
+
+- type: entity
+  parent: [ ClothingHeadBase, BaseFoldable ]
+  id: ClothingHeadHatUshankaNavy
+  name: fleet fur hat
+  description: An SCG Fleet synthfur-lined hat for operating in cold environments.
+  components:
+  - type: Clothing
+    sprite: _Bay14/Clothing/Head/Hats/fleet_ushanka.rsi
+  - type: Appearance
+  - type: Foldable
+    canFoldInsideContainer: true
+  - type: FoldableClothing
+    foldedEquippedPrefix: up
+    foldedHeldPrefix: up
+  - type: Sprite
+    sprite: _Bay14/Clothing/Head/Hats/fleet_ushanka.rsi
+    layers:
+    - state: icon
+      map: [ "unfoldedLayer" ]
+    - state: icon-up
+      map: ["foldedLayer"]
+      visible: false
+
+- type: entity
+  parent: [ ClothingHeadBase, BaseFoldable ]
+  id: ClothingHeadHatUshankaNavy
+  name: expeditionary fur hat
+  description: An SCG Expeditionary Corps synthfur-lined hat for operating in cold environments.
+  components:
+  - type: Clothing
+    sprite: _Bay14/Clothing/Head/Hats/expedition_ushanka.rsi
+  - type: Appearance
+  - type: Foldable
+    canFoldInsideContainer: true
+  - type: FoldableClothing
+    foldedEquippedPrefix: up
+    foldedHeldPrefix: up
+  - type: Sprite
+    sprite: _Bay14/Clothing/Head/Hats/expedition_ushanka.rsi
+    layers:
+    - state: icon
+      map: [ "unfoldedLayer" ]
+    - state: icon-up
+      map: ["foldedLayer"]
+      visible: false
