@@ -1,0 +1,246 @@
+# SPDX-FileCopyrightText: 2026 Iced-Coded <alexivolkov@vivaldi.net>
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+# Service Jackets
+
+- type: entity
+  parent: ClothingOuterStorageBase
+  id: ClothingOuterNavyServiceJacket
+  name: fleet service jacket
+  description: A navy blue SCG Fleet service jacket.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/OuterClothing/Coats/blueservice.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/OuterClothing/Coats/blueservice.rsi
+
+- type: entity
+  parent: ClothingOuterStorageBase
+  id: ClothingOuterNavyServiceJacketSNCO
+  name: fleet SNCO service jacket
+  description: A navy blue SCG Fleet service jacket with silver cuffs.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/OuterClothing/Coats/blueservice_snco.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/OuterClothing/Coats/blueservice_snco.rsi
+
+- type: entity
+  parent: ClothingOuterStorageBase
+  id: ClothingOuterNavyServiceJacketOfficer
+  name: fleet officer's service jacket
+  description: A navy blue SCG Fleet service jacket with silver accents.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/OuterClothing/Coats/blueservice_officer.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/OuterClothing/Coats/blueservice_officer.rsi
+
+- type: entity
+  parent: ClothingOuterStorageBase
+  id: ClothingOuterNavyServiceJacketCommand
+  name: fleet senior officer's service jacket
+  description: A navy blue SCG Fleet service jacket with gold accents.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/OuterClothing/Coats/blueservice_command.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/OuterClothing/Coats/blueservice_command.rsi
+
+- type: entity
+  parent: ClothingOuterStorageBase
+  id: ClothingOuterNavyServiceJacketFlag
+  name: fleet flag officer's service jacket
+  description: A navy blue SCG Fleet service jacket with red accents.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/OuterClothing/Coats/blueservice_flag.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/OuterClothing/Coats/blueservice_flag.rsi
+
+- type: entity
+  parent: ClothingOuterStorageBase
+  id: ClothingOuterBlackServiceJacket
+  name: service jacket
+  description: A uniform service jacket, plain and undecorated.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/OuterClothing/Coats/blackservice.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/OuterClothing/Coats/blackservice.rsi
+
+- type: entity
+  parent: ClothingOuterStorageBase
+  id: ClothingOuterECServiceJacket
+  name: expeditionary jacket
+  description: A uniform service jacket belonging to the SCG Expeditionary Corps.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/OuterClothing/Coats/ecservice.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/OuterClothing/Coats/ecservice.rsi
+
+- type: entity
+  parent: ClothingOuterStorageBase
+  id: ClothingOuterECServiceJacketOfcr
+  name: expeditionary officer's jacket
+  description: A uniform service jacket belonging to the SCG Expeditionary Corps.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/OuterClothing/Coats/ecservice_ofcr.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/OuterClothing/Coats/ecservice_ofcr.rsi
+
+# Service Jackets end
+
+# Dress Jackets
+
+- type: entity
+  parent: ClothingOuterStorageBase
+  id: ClothingOuterNavyDressJacket
+  name: fleet dress jacket
+  description: A navy blue SCG Fleet dress jacket. Don't get near pasta sauce or vox.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/OuterClothing/Coats/whitedress.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/OuterClothing/Coats/whitedress.rsi
+
+- type: entity
+  parent: ClothingOuterStorageBase
+  id: ClothingOuterNavyDressSNCOJacket
+  name: fleet dress SNCO jacket
+  description: A navy blue SCG Fleet dress jacket with silver cuffs. Don't get near pasta sauce or vox.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/OuterClothing/Coats/whitedress_snco.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/OuterClothing/Coats/whitedress_snco.rsi
+
+- type: entity
+  parent: ClothingOuterStorageBase
+  id: ClothingOuterNavyDressOfficerJacket
+  name: fleet officer's dress jacket
+  description: A navy blue SCG Fleet dress jacket with silver accents. Don't get near pasta sauce or vox.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/OuterClothing/Coats/whitedress_officer.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/OuterClothing/Coats/whitedress_officer.rsi
+
+- type: entity
+  parent: ClothingOuterStorageBase
+  id: ClothingOuterNavyDressFlagJacket
+  name: fleet flag officer's dress jacket
+  description: A navy blue SCG Fleet dress jacket with red accents. Don't get near pasta sauce or vox.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/OuterClothing/Coats/whitedress_flag.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/OuterClothing/Coats/whitedress_flag.rsi
+
+- type: entity
+  parent: ClothingOuterStorageBase
+  id: ClothingOuterNavyDressCommandJacket
+  name: fleet senior officer's dress jacket
+  description: A navy blue SCG Fleet dress jacket with gold accents. Don't get near pasta sauce or vox.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/OuterClothing/Coats/whitedress_command.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/OuterClothing/Coats/whitedress_command.rsi
+
+# Dress Jackets end
+
+# Dress Coats
+
+- type: entity
+  parent: ClothingOuterStorageBase
+  id: ClothingOuterECDressCoat
+  name: expeditionary dress coat
+  description: A silver and black dress peacoat belonging to the SCG Expeditionary Corps. Fashionable, for the 25th century at least.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/OuterClothing/Coats/dresscoat_xpl.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/OuterClothing/Coats/dresscoat_xpl.rsi
+
+- type: entity
+  parent: ClothingOuterStorageBase
+  id: ClothingOuterECDressCoatSenior
+  name: expeditionary senior's dress coat
+  description: A silver and black dress peacoat belonging to the SCG Expeditionary Corps. Fashionable, for the 25th century at least.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/OuterClothing/Coats/dresscoat_sxpl.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/OuterClothing/Coats/dresscoat_sxpl.rsi
+
+- type: entity
+  parent: ClothingOuterStorageBase
+  id: ClothingOuterECDressCoatChief
+  name: expeditionary chief's dress coat
+  description: A silver and black dress peacoat belonging to the SCG Expeditionary Corps. Fashionable, for the 25th century at least.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/OuterClothing/Coats/dresscoat_cxpl.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/OuterClothing/Coats/dresscoat_cxpl.rsi
+
+- type: entity
+  parent: ClothingOuterStorageBase
+  id: ClothingOuterECDressCoatOfficer
+  name: expeditionary officer's dress coat
+  description: A silver and black dress peacoat belonging to the SCG Expeditionary Corps. Fashionable, for the 25th century at least.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/OuterClothing/Coats/dresscoat_ofcr.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/OuterClothing/Coats/dresscoat_ofcr.rsi
+
+- type: entity
+  parent: ClothingOuterStorageBase
+  id: ClothingOuterECDressCoatCommander
+  name: expeditionary commander's dress coat
+  description: A silver and black dress peacoat belonging to the SCG Expeditionary Corps. Fashionable, for the 25th century at least.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/OuterClothing/Coats/dresscoat_capt.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/OuterClothing/Coats/dresscoat_capt.rsi
+
+- type: entity
+  parent: ClothingOuterStorageBase
+  id: ClothingOuterECDressCoatCaptain
+  name: expeditionary captain's dress coat
+  description: A silver and black dress peacoat belonging to the SCG Expeditionary Corps. Fashionable, for the 25th century at least.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/OuterClothing/Coats/dresscoat_capt.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/OuterClothing/Coats/dresscoat_capt.rsi
+
+- type: entity
+  parent: ClothingOuterStorageBase
+  id: ClothingOuterECDressCoatAdmiral
+  name: expeditionary admiral's dress coat
+  description: A silver and black dress peacoat belonging to the SCG Expeditionary Corps. Fashionable, for the 25th century at least.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/OuterClothing/Coats/dresscoat_adm.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/OuterClothing/Coats/dresscoat_adm.rsi
+
+# Dress Coats end
+
+- type: entity
+  parent: ClothingOuterStorageBase
+  id: ClothingOuterSailorDress
+  name: fleet dress overwear
+  description: A navy blue SCG Fleet dress suit. Almost looks like a school-girl outfit.
+  components:
+  - type: Sprite
+    sprite: _Bay14/Clothing/OuterClothing/Coats/sailor.rsi
+  - type: Clothing
+    sprite: _Bay14/Clothing/OuterClothing/Coats/sailor.rsi
